@@ -17,4 +17,3 @@ social:
     link: https://linkedin.com
 ---
 
-Project Manager
