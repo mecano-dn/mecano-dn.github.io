@@ -62,10 +62,10 @@ content = ""
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = []
+description = "MECANO: Mechanics of Canon Formation and the Transmission of Knowledge from Greco-Roman Antiquity"
+author = ""
+image = "logos/mecano-logo.png"
 
 
 # site verifications
