@@ -35,11 +35,6 @@ pageRef = ""
 
 
 
-[[main]]
-name = "Contact"
-pageRef ="/contact"
-
-
 # footer menu
 [[footer]]
 name = "About"

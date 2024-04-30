@@ -1,5 +1,5 @@
 ---
-title: Pieter d'Hoine
+title: Prof. Pieter d'Hoine
 email: pieter.dhoine@kuleuven.be
 image: "/images/profile-pics/dhoine.png"
 description: this is meta description
