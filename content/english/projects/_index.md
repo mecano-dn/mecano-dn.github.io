@@ -24,7 +24,7 @@ features:
 {{< toc >}}
 
 
-### Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
+### 1 Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
 
 The general objective of this PhD project is to study how people are cited in Pliny the Elder's
 Naturalis Historia (NH), considered the first Encyclopaedia of the Ancient World (contributing to RO1). A
