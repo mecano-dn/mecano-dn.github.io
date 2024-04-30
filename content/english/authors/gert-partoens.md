@@ -1,7 +1,7 @@
 ---
 title: Gert Partoens
 email: gert.partoens@kuleuven.be
-image: "/images/avatar.png"
+image: "/images/profile-pics/partoens.jpeg"
 description: this is meta description
 social:
   - name: github

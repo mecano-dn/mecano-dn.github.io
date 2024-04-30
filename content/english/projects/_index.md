@@ -4,27 +4,12 @@ meta_title: ""
 description: ""
 draft: false
 
-
-features:
-  - title: ""
-    image: "images/logos/msca-eu.png"
-    content: "MECANO is a doctoral network realised in the framework of MSCA Actions. It joins ten PhD projects hosted at five partner universities, each of which explores the themes of canon and canonicity from its unique angle."
-    bulletpoints:
-      - "6 universities"
-      - "9 partner institutions"
-      - "18 supervisors"
-      - "10 PhD candidates"
-    button:
-      enable: true
-      image: ""
-      label: "Find out more"
-      link: "/about"
 ---
 
 {{< toc >}}
 
 
-### 1 Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
+### Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
 
 The general objective of this PhD project is to study how people are cited in Pliny the Elder's
 Naturalis Historia (NH), considered the first Encyclopaedia of the Ancient World (contributing to RO1). A

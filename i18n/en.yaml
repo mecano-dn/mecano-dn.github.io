@@ -39,3 +39,6 @@
 
 - id: search_close
   translation: to close
+
+- id: complete_info
+  translation: Full details

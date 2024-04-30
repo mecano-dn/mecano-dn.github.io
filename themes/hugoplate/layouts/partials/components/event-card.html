@@ -1,0 +1,15 @@
+<div class="bg-body dark:bg-darkmode-body">
+  {{ $image:= .Params.image }}
+  {{ if $image }}
+    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "rounded-full mb-6 w-full") }}
+  {{ end }}
+  <h4 class="mb-3 text-center">
+    <a href="{{ .RelPermalink }}">
+      {{ .Title }}
+    </a>
+  </h4>
+  <p class="text-center"><b>{{ .Params.Date_start | time.Format ":date_medium" }} – {{ .Params.Date_end | time.Format ":date_medium" }}</b></p>
+  <p class="text-center">{{ .Params.Location }}</p>
+  </br>
+  <p class="mb-6 text-justify">{{ .Summary }}</p>
+</div>

@@ -1,19 +1,16 @@
 ---
 title: Daria Kohler
-email: dk@dareia.one
-image: "/images/avatar.png"
+email: daria.kondakova@kuleuven.be
+image: "/images/profile-pics/kohler.jpg"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+  - name: email
+    icon: fab fa-at
+    link: mailto:daria.kondakova@kuleuven.be
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+  - name: webpage
+    icon: fa-regular fa-circle-right
+    link: https://www.kuleuven.be
 ---
 
+Project Manager

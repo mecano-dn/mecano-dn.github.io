@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <!-- {{ partial "page-header" . }} -->
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="md:col-10 lg:col-9">
+      <h2>{{ .Title }}</h2>
+      <p><b>{{ .Params.Date_start | time.Format ":date_medium" }} – {{ .Params.Date_end | time.Format ":date_medium" }}</b></p>
+      <p>{{ .Params.Location }}</p>
+      <hr/><br/>
+      <div class="content"> {{ .Content }} 
+{{ $link := .Params.Link_external }}
+      {{ if $link }}
+      <a class="btn btn-outline-primary btn-sm" href="{{ $link }}">{{ i18n "complete_info" }}</a>
+      {{ end }}
+      </div>
+      <br/>
+      <div class="row justify-center text-center">
+      {{ $image := resources.Get .Params.image }}
+      {{ with $image }}
+      <img src="{{ .RelPermalink }}" class="rounded-full" style="width: 400px;"/> 
+      {{ end }}
+      {{ if .Params.image_credit }}
+      <small>{{ .Params.image_credit }}</small>
+      {{ end }}
+      </div>
+      </div>
+    </div>
+    </div>
+  </section>
+{{ end }}

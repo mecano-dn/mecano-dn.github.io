@@ -1,23 +1,24 @@
 <div
   class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
-  {{ $image:= .Params.image }}
+  {{ $image:= resources.Get .Params.image  }}
+  {{ $image:= $image.Process "crop 400x400" }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
-  {{ else if .Params.Email }}
-    <img
+    <img src="{{ $image.RelPermalink }}" class="mx-auto mb-6 rounded-full" height="140" width="140" >
+    <!-- <img
       class="mx-auto mb-6 rounded"
       alt="{{ .Title }}"
       height="120"
       width="120"
-      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
-  {{ end }}
-  <h6 class="mb-3">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </h6>
+      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" /> -->
+  {{ end }} 
+  <h5 class="mb-3">
+    <!--<a href="{{ .RelPermalink }}">-->
+    {{ .Title }}
+    <!--</a>-->
+  </h5>
   <p class="mb-4">
     {{ .Summary }}
   </p>
-<!--
   <ul class="social-icons">
     {{ range .Params.social }}
       <li>
@@ -28,5 +29,4 @@
       </li>
     {{ end }}
   </ul>
--->
 </div>
