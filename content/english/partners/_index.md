@@ -9,7 +9,7 @@ logos: "images/logos/institutions"
 draft: false
 ---
 
-The MECANO consortium counts **six universities** and **nine partner institutions**. The partners play an important role in the network by contributing to the training of doctoral students, hosting secondments, and supporting the outreach and visibility aspects of the project. We are glad to have on board two publishing houses (Brepols and Brill), two cultural organisations (STUK and Valkhof Museum), two research infrastructures (*Thesaurus Linguae Latinae* and Trismegistos+), a national library (Deutcsche Nationalbibliothek) and a non-profit state IT company (CSC).
+The MECANO consortium counts **six universities** and **nine partner institutions**. The partners play an important role in the network by contributing to the training of doctoral students, hosting secondments, and supporting the outreach and visibility aspects of the project. We are glad to have on board two publishing houses (Brepols and Brill), two cultural organisations (STUK and Valkhof Museum), two research infrastructures (*Thesaurus Linguae Latinae* and Trismegistos+), a national library (Deutsche Nationalbibliothek) and a non-profit state IT company (CSC).
 
 
 
