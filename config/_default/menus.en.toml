@@ -36,8 +36,5 @@ pageRef = "/consortium"
 
 
 # footer menu
-[[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
+
 
