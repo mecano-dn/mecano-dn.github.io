@@ -1,5 +1,7 @@
 ---
 title: Daria Kohler
+last_name: Kohler
+role: project manager
 email: daria.kondakova@kuleuven.be
 image: "/images/profile-pics/kohler.jpg"
 description: this is meta description

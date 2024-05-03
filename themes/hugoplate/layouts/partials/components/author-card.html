@@ -1,7 +1,9 @@
 <div
-  class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
+  class="rounded p-8 text-center">
+<!--<div
+  class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">-->
   {{ $image:= resources.Get .Params.image  }}
-  {{ $image:= $image.Process "crop 400x400" }}
+  {{ $image:= $image.Process "fill 400x400" }}
   {{ if $image }}
     <img src="{{ $image.RelPermalink }}" class="mx-auto mb-6 rounded-full" height="140" width="140" >
     <!-- <img

@@ -30,8 +30,8 @@ pageRef = "/authors"
 
 [[main]]
 weight = 6
-name="Partners"
-pageRef = "/partners"
+name="Consortium"
+pageRef = "/consortium"
 
 
 

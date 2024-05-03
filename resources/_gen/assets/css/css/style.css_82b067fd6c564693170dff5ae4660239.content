@@ -1917,6 +1917,12 @@ input#nav-toggle:checked ~ #nav-menu {
 .h-6 {
   height: 1.5rem;
 }
+.max-h-\[100px\] {
+  max-height: 100px;
+}
+.max-h-\[300px\] {
+  max-height: 300px;
+}
 .w-\[30px\] {
   width: 30px;
 }
