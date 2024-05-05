@@ -33,8 +33,20 @@ weight = 6
 name="Consortium"
 pageRef = "/consortium"
 
-
+[[main]]
+weight = 7
+name="Contact"
+pageRef="/contact"
 
 # footer menu
 
+[[footer]]
+name = "About"
+pageRef = "/about"
 
+[[footer]]
+name = "Funding"
+pageRef = "/funding"
+
+[[footer]]
+name="Impressum"

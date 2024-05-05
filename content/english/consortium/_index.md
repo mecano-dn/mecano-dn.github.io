@@ -49,7 +49,7 @@ The **hosting universities** each host two PhD candidates.
 - Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen
 
 {{< /accordion >}}
-<!--{{< slider dir="images/logos/universities" class="" webp="false" command="Fit" option="" zoomable="false" >}}-->
+
 
 The **partner institutions** play an important role in the network by contributing to the training of doctoral students, hosting secondments, and supporting the outreach and visibility aspects of the project. We are glad to have on board two publishing houses (Brepols and Brill), two cultural organisations (STUK and Valkhof Museum), two research infrastructures (*Thesaurus Linguae Latinae* and Trismegistos+), a national library (Deutsche Nationalbibliothek) and a non-profit state IT company (CSC). 
 
@@ -60,8 +60,16 @@ MECANO partner institutions are:
 - Brill Publishers
 - CSC: IT Center for Science in Finland
 - Deutsche Nationalbibliothek
-- STUK: House for Danse, Image and Sound
+- STUK: House for Dance, Image and Sound
+- Thesaurus Linguae Latinae (Bayerische Akademie der Wissenschaften)
 - Trismegistos+
 - Valkhof Museum
 
+<!--
+{{< slider dir="images/logos/partners" class="max-w-[200] ml-0" height="200" width="400" webp="false" command="Fit" option="" zoomable="false" >}}
+-->
+<!--
+{{< slider dir="images/logos/partners" class="max-h-[200] ml-0" height="200" width="400" webp="false" command="Fit" option="" zoomable="false" >}}
+-->
+{{< slider dir="images/logos/partners" class="max-w-[200px] ml-0" height="200" width="400" webp="false" command="Fit" option="" zoomable="false" >}}
 

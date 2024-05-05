@@ -1,13 +1,27 @@
 {{ define "main" }}
+{{ partial "page-header" . }}
   <section class="section-sm">
     <div class="container">
-      <div class="row justify-center">
+      <div class="row gx-5 justify-center">
+        <!-- events -->
+        <div class="lg:col-12">
+          <div class="row">
+            {{ range .RegularPages.ByLinkTitle }}
+              <div class="md:col-6 mb-14">
+                {{ partial "components/project-card" . }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <!--<div class="row justify-center">
         <div class="md:col-10 lg:col-10 text-justify">
-          <!--{{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}-->
+          {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
           <h2 class="h3 mb-6">{{ .Title }}</h2>
           <div class="content">{{ .Content }}</div>
         </div>
       </div>
+      -->
     </div>
   </section>
 {{ end }}

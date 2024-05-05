@@ -17,13 +17,12 @@ MECANO's twofold goal is to develop a **new model for the study of canonicity** 
 
 ### Our values
 
-In studying the mechanics of canon formation across times, languages and cultures, MECANO is inevitably concerned with the dynamics of inclusion and exclusion implied
-in knowledge transmission, which may in turn reflect broader societal or cultural
+In studying the mechanics of canon formation across times, languages and cultures, MECANO is inevitably concerned with the dynamics of inclusion and exclusion implied in knowledge transmission, which may in turn reflect broader societal or cultural
 tensions. Through our training and research programme, we aim to foster awareness of
 these dynamics and contribute to contemporary societal debates about inclusive
 education, cultural identity and diversity. We believe that in order to tackle such
 questions we also need to rise to the challenges of open debate and critical discussion
-ourselves, by creating a space where researchers from diFerent academic and cultural
+ourselves, by creating a space where researchers from different academic and cultural
 backgrounds can meet, regardless of nationality, ethnicity, gender or religion. As
 political, societal and military developments around the globe may be an increasing
 source of concern, we hope that our engagement with the challenges of this project will
