@@ -5,7 +5,7 @@
       <div class="row gx-5 justify-center">
         <div class="lg:col-12">
           <div class="row">
-            {{ range .RegularPages.ByLinkTitle }}
+            {{ range .RegularPages }}
               <div class="md:col-6 mb-14">
                 {{ partial "components/project-card" . }}
               </div>

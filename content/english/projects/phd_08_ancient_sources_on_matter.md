@@ -3,6 +3,7 @@ title: "Ancient Sources on Matter in Late Medieval Commentaries on Aristotle"
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 8
 draft: false
 ---
 

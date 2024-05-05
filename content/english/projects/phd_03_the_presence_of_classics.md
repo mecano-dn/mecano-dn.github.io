@@ -3,6 +3,7 @@ title: "The Presence of Classics in Early Modern Book History"
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 3
 draft: false
 ---
 

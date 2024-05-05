@@ -3,6 +3,7 @@ title: "Syntax, formulaic structures, and canon-marking in Greek and Arabic: doc
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 7
 draft: false
 ---
 

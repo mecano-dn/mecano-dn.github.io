@@ -3,6 +3,7 @@ title: "The philosophical canon and the art of (mis)quoting Plato and Aristotle 
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 2
 draft: false
 ---
 

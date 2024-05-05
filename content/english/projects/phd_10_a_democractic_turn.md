@@ -3,6 +3,7 @@ title: "A democratic turn? Uncovering and understanding referencing patterns to 
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 10
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "Contextual scientometrics: uncovering and understanding referencing patt
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 9
 draft: false
 ---
 

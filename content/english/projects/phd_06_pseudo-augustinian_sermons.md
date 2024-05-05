@@ -3,6 +3,7 @@ title: "Recovering anonymous late-antique preachers in the corpus of pseudo-Augu
 meta_title: ""
 description: "this is meta description"
 people: ""
+weight: 6 
 draft: false
 ---
 
