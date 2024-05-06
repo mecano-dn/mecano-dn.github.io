@@ -12,6 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://www.arts.kuleuven.be/personeelsleden/zap/gertpartoens
 ---
 
+Professor of Latin Literature (KU Leuven)

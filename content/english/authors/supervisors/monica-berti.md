@@ -2,7 +2,7 @@
 title: Monica Berti
 last_name: Berti
 role: supervisor
-email: monica.ferti@uni-leipzig.de
+email: monica.berti@uni-leipzig.de
 image: "/images/profile-pics/berti.jpeg"
 description: this is meta description
 social:
@@ -12,6 +12,7 @@ social:
       
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://www.uni-leipzig.de/en/profile/mitarbeiter/pd-dr-monica-berti
 ---
 
+Classicist and Digital Humanist, professor of Ancient History (University of Leipzig)

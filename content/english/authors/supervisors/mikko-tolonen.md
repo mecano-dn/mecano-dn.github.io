@@ -11,6 +11,7 @@ social:
       
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://researchportal.helsinki.fi/en/persons/mikko-tolonen
 ---
 
+Professor of Digital Humanities (University of Helsinki)

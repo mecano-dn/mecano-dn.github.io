@@ -12,6 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: https://en.classics.huji.ac.il/people/orly-lewis
+    link: https://orlylewis.huji.ac.il/
 ---
 
+Assistant Professor in Classics (Hebrew University of Jerusalem)

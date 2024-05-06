@@ -12,7 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://hiw.kuleuven.be/dwmc/people/00041615
 ---
 
-Professor of Ancient Philosophy (KU Leuven)
+Professor of Ancient Philosophy (KU Leuven), **coordinator of MECANO** 

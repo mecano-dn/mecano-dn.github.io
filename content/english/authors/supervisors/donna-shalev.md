@@ -12,6 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://en.classics.huji.ac.il/people/donna-shalev
 ---
 
+Professor of Classical Studies (Hebrew University of Jerusalem)

@@ -12,7 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: https://www.kuleuven.be
+    link: https://www.kuleuven.be/wieiswie/en/person/00154690
 ---
 
-Project Manager
+Research Associate (KU Leuven), **project manager of MECANO**

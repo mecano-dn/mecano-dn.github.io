@@ -9,6 +9,10 @@ social:
   - name: email
     icon: fab fa-at
     link: mailto:margherita.fantoli@kuleuven.be
+
+  - name: webpage
+    icon: fa-regular fa-circle-right
+    link: https://margheritafantoli.wordpress.com/about/
 ---
 
-Professor of Digital Humanities (KU Leuven)
+Assistant Professor of Digital Humanities (KU Leuven)

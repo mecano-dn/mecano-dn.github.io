@@ -9,5 +9,10 @@ social:
   - name: email
     icon: fab fa-at
     link: mailto:jan.opsomer@kuleuven.be
+
+  - name: webpage
+    icon: fa-regular fa-circle-right
+    link: https://www.kuleuven.be/wieiswie/nl/person/00015972
 ---
 
+Professor of Ancient Philosophy (KU Leuven)

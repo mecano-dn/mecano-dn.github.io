@@ -9,6 +9,10 @@ social:
   - name: email
     icon: fab fa-at
     link: mailto:marja.vierros@helsinki.fi
-
+    
+  - name: webpage
+    icon: fa-regular fa-circle-right
+    link: https://researchportal.helsinki.fi/en/persons/marja-vierros
 ---
 
+Professor of Classical Philology (University of Helsinki)

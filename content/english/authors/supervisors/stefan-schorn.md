@@ -12,6 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 	
+    link: https://www.arts.kuleuven.be/english/our-staff/zap/stefanschorn
 ---
 
+Professor of Ancient History (KU Leuven)

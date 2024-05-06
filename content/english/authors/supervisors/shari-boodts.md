@@ -9,5 +9,10 @@ social:
   - name: email
     icon: fab fa-at
     link: mailto:s.boodts@ru.nl
+
+  - name: webpage
+    icon: fa-regular fa-circle-right
+    link: https://www.ru.nl/en/people/boodts-s  
 ---
 
+Assistant Professor of Medieval History (Radboud University Nijmegen)

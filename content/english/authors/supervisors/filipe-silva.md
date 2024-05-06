@@ -12,6 +12,7 @@ social:
 
   - name: webpage
     icon: fa-regular fa-circle-right
-    link: 
+    link: https://researchportal.helsinki.fi/en/persons/filipe-pereira-da-silva
 ---
 
+Professor of Theoretical Philosophy (University of Helsinki)
