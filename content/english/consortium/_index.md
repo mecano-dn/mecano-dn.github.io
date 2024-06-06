@@ -55,7 +55,6 @@ The **partner institutions** play an important role in the network by contributi
 
 MECANO partner institutions are:
 
-- Ain Shams University
 - Brepols Publishers
 - Brill Publishers
 - CSC: IT Center for Science in Finland
