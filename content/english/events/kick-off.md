@@ -15,11 +15,11 @@ link_external: "https://www.kuleuven.be"
 | ---	| -----	| -----	|
 | Sunday, 15 September | Kortenberg |  Arrival | 
 | Monday, 16 September | Kortenberg | LECTIO Summer School ‘Canons and Canonicity’ (day 1) |
-| Tuesday, 17 September | Kortenberg | LECTIO Summer School ‘Canons and Canonicity’ (day 2) |
-| | | MECANO Supervisory Board meeting | 
+| Tuesday, 17 September | Kortenberg | LECTIO Summer School ‘Canons and Canonicity’ (day 2) | 
 | Wednesday, 18 September | Leuven | Social and cultural programme |
 | | |  Official kick-off of MECANO | 
 | | | Individual meetings with supervisors |
+| | | MECANO Supervisory Board meeting |
 | Thursday, 19 September | Turnhout | Visit and training at BREPOLS Publishers |
 | Friday, 20 September | Kortenberg | Meeting of the PhD Committee |
 | | | Introduction to Digital Humanities for historical disciplines |
