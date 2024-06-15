@@ -8,7 +8,7 @@ description: this is meta description
 social:
   - name: email
     icon: fab fa-at
-    link: mailto:monica.ferti@uni-leipzig.de
+    link: mailto:monica.berti@uni-leipzig.de
       
   - name: webpage
     icon: fa-regular fa-circle-right
