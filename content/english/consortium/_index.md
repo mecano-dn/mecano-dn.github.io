@@ -8,9 +8,9 @@ description: "This is meta description"
 draft: false
 ---
 
-The MECANO consortium counts **five hosting universities** and **nine partner institutions**. 
+The MECANO consortium counts **five hosting universities** and **eight partner institutions**. 
 
-{{< image src="images/logos/universities/all_universities.png" caption="" alt="logos of MECANO universities in a row" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/logos/universities/all_universities.png" caption="" alt="logos of MECANO universities in a row: Radboud University, University of Helsinki, KU Leuven, Hebrew University of Jerusalem, University of Leipzig" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 
 The **hosting universities** each host two PhD candidates. 
