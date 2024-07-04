@@ -22,10 +22,11 @@ features:
       label: "Find out more"
       link: "/about"
 ---
-
+<!--
 {{< notice "Open PhD positions" >}}
 **Pulse and Physiology in Hellenistic Science**: <https://euraxess.ec.europa.eu/jobs/190367>
 
 **Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen**: <https://euraxess.ec.europa.eu/jobs/190887>
+-->
  
 {{< /notice >}}
