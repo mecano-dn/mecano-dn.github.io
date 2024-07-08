@@ -6,7 +6,7 @@ location: "Leuven / Kortenberg, Belgium"
 summary: "The first time all MECANO PhDs will come together for a summer school on canons and canonicity, a visit to the Brepols publishing house in Turnhout, and the first DH training modules."
 image: "images/illustrations/kortenberg.jpeg"
 image_credit: "© Peter Janssens, Wikipedia Commons"
-link_external: "https://www.kuleuven.be"
+link_external: "https://www.kuleuven.be/"
 ---
 
 **Provisional programme**
