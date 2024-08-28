@@ -30,7 +30,7 @@ Here is an example of headings. You can use this heading by the following markdo
 
 The emphasis, aka italics, with _asterisks_ or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Strong emphasis, afka bold, with **asterisks** or **underscores**.
 
 The combined emphasis with **asterisks and _underscores_**.
 

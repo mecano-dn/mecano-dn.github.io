@@ -6,7 +6,6 @@ draft: false
 
 ---
 
-
 ### Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
 
 The general objective of this PhD project is to study how people are cited in Pliny the Elder's

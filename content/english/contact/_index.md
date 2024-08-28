@@ -8,6 +8,6 @@ draft: false
 ||||
 |-----|-----|-----|
 | **coordinator** | prof. Pieter d'Hoine | pieter.dhoine@kuleuven.be |
-| **project manager** | dr. Daria Kohler (Kondakova) | daria.kondakova@kuleuven.be |
+| **project manager** | dr. Daria Kohler | daria.kohler@kuleuven.be |
 | **project mailbox**  || info@mecano-dn.eu |
 
