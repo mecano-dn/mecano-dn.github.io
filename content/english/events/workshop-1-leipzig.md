@@ -9,5 +9,8 @@ image_credit: "© Andreas Schmidt/LTM"
 link_external: ""
 ---
 
+{{< notice "Under construction" >}}
 
-Detailed programme TBC
+Detailed programme will be communicated shortly.
+
+{{< /notice >}}
