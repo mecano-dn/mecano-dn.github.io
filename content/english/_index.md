@@ -7,7 +7,7 @@ banner:
   
 # Features
 features:
-  - title: ""
+  - title: "MSCA Doctoral Network"
     image: "images/logos/msca-eu.png"
     content: "MECANO is a doctoral network realised in the framework of MSCA Actions. It joins ten PhD projects hosted at five partner universities, each of which explores the themes of canon and canonicity from its unique angle."
     bulletpoints:
@@ -17,16 +17,15 @@ features:
       - "10 PhD candidates"
     button:
       enable: true
-      image: ""
-    
       label: "Find out more"
       link: "/about"
+
 ---
 <!--
 {{< notice "Open PhD positions" >}}
 **Pulse and Physiology in Hellenistic Science**: <https://euraxess.ec.europa.eu/jobs/190367>
 
 **Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen**: <https://euraxess.ec.europa.eu/jobs/190887>
--->
  
 {{< /notice >}}
+-->
