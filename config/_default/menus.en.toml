@@ -26,7 +26,7 @@ pageRef = "/events"
 [[main]]
 weight = 5
 name = "People"
-pageRef = "/authors"
+pageRef = "/people"
 
 [[main]]
 weight = 6
