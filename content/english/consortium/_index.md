@@ -55,14 +55,14 @@ The **partner institutions** play an important role in the network by contributi
 
 MECANO partner institutions are:
 
-- Brepols Publishers
-- Brill Publishers
-- CSC: IT Center for Science in Finland
-- Deutsche Nationalbibliothek
-- STUK: House for Dance, Image and Sound
-- Thesaurus Linguae Latinae (Bayerische Akademie der Wissenschaften)
-- Trismegistos+
-- Valkhof Museum
+- Brepols Publishers | Turnhout, Belgium
+- Brill Publishers | Leiden, Netherlands
+- CSC: IT Center for Science in Finland | Finland
+- Deutsche Nationalbibliothek | Leipzig/Frankfurt, Germany
+- STUK: House for Dance, Image and Sound | Leuven, Belgium
+- Thesaurus Linguae Latinae (Bayerische Akademie der Wissenschaften) | Munich, Germany
+- Trismegistos+ (KU Leuven Core Facility) | Leuven, Belgium
+- Valkhof Museum | Nijmegen, Netherlands
 
 <!--
 {{< slider dir="images/logos/partners" class="max-w-[200] ml-0" height="200" width="400" webp="false" command="Fit" option="" zoomable="false" >}}
