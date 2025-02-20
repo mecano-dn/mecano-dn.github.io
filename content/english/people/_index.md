@@ -2,4 +2,4 @@
 title: "People"
 ---
 
-## MECANO academic team
+{{< button label="Button" link="/" style="solid" >}}

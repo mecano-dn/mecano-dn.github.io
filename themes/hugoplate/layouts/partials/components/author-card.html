@@ -1,18 +1,26 @@
 <div
-  class="rounded p-8 text-center">
+  class="rounded p-8 text-left">
 <!--<div
   class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">-->
   {{ $image:= resources.Get .Params.image  }}
-  {{ $image:= $image.Process "fill 400x400" }}
-  {{ if $image }}
+{{ if $image }}
+  {{ $image:= $image.Process "fill 300x300" }}
+  <div class="row">
+    <div class="col-6">
+
     <img src="{{ $image.RelPermalink }}" class="mx-auto mb-6 rounded-full" height="140" width="140" >
-    <!-- <img
+  {{ else }}
+  <div class="row">
+    <div class="col-2">
+  <img
       class="mx-auto mb-6 rounded"
       alt="{{ .Title }}"
       height="120"
       width="120"
-      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" /> -->
+      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }} 
+</div>
+<div class="col-10">
   <h5 class="mb-3">
     <!--<a href="{{ .RelPermalink }}">-->
     {{ .Title }}
@@ -31,4 +39,6 @@
       </li>
     {{ end }}
   </ul>
+</div>
+</div>
 </div>

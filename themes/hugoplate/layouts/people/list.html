@@ -1,16 +1,60 @@
 {{ define "main" }}
-<!--  {{ partial "page-header" . }} -->
+{{ partial "page-header" . }}
 
-  <section class="section">
-    <div class="container">
-      <h3>MECANO team</h3>
-      <div class="row">
-        {{ range .RegularPages.ByParam "last_name" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
+  <div class="container text-center p-8 ">
+    <div class="row content-center">
+      {{ range .Sections.ByParam "weight" }}
+      <div class="col-3">
+      <h5><a href="#{{ .Title | safeURL }}"><p>{{ i18n (printf "%s" (lower .Title)) | default .Title | title }}</p></a></h5>
       </div>
+      {{ end }}
     </div>
-  </section>
+  </div>
+
+
+<div class="container">
+
+{{ range .Sections.ByParam "weight" }}
+  {{ if eq .Params.Title "PhD candidates" }}
+  <div class="container">
+    <h4 id="{{ .Title }}"> {{ .Title }} </h4>
+    <div class="row">
+    {{ range .Pages.ByParam "last_name" }}
+      <div class="md:col-6 lg:col-6 mb-14">
+          {{ partial "components/author-card" . }}
+      </div>
+    {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  <div class="container">
+    <h4 id="{{ .Title }}"> {{ .Title }} </h4>
+    <div class="row">
+    {{ range .Pages.ByParam "last_name" }}
+      <div class="md:col-6 lg:col-4 mb-14">
+          {{ partial "components/author-card" . }}
+      </div>
+    {{ end }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}
+
+</div>
+
+<!--
+<section class="section">
+  <div class="container">
+    <h5>Supervisors</h5>
+    <div class="row">
+      {{ range .RegularPages.ByParam "last_name" }}
+        <div class="md:col-6 lg:col-3 mb-14">
+          {{ partial "components/author-card" . }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+-->
+
 {{ end }}

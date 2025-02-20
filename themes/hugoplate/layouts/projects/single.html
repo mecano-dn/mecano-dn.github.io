@@ -9,10 +9,10 @@
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-                <i class="fa-regular fa-circle-user mr-2"></i
-                >{{ .Params.people }}
-              </a>
+                href="{{ `people/` | relLangURL }}{{ .Params.PhD | urlize }}/">
+                <i class="fa-regular fa-graduation-cap mr-2"></i
+                >{{ .Params.PhD }}
+              </a> ({{ .Params.Main_Uni }})
             </li>
           </ul>
           <div class="content mb-10">
@@ -24,6 +24,20 @@
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           -->
+          <div>
+            <p>Supervisors: {{ .Params.Supervisor_1 }} and {{ .Params.Supervisor_2 }}</p>
+          <!-- <p>
+            <a
+                href="{{ `people/` | relLangURL }}{{ .Params.Supervisor_1 | urlize }}/">
+                <i class="fa-regular fa-circle-user mr-2"></i>
+              </a>
+          </p>
+          <p><a
+                href="{{ `people/` | relLangURL }}{{ .Params.Supervisor_2 | urlize }}/">
+                <i class="fa-regular fa-circle-user mr-2"></i>
+              </a>
+          </p> -->
+        </div>
           </div>
         </article>
       </div>
