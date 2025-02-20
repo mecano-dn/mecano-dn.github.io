@@ -3,10 +3,13 @@ title: Luisa Ripoll-Alberola
 last_name: ripoll-alberola
 role: PhD
 email: 
-image: "/images/avatar.png"
+image: "/images/profile-pics/ripoll-alberola.jpeg"
 description: this is meta description
 social:
   - name: email
     icon: fab fa-at
     link: mailto:test@abc.com
 ---
+
+I come from Alicante, in Spain. After obtaining my bachelor's degree in Industrial Engineering from Universidad Politécnica de Madrid, I 
+pursued a master's degree in Statistics and Data Science, with the idea of recycling my coding expertise to explore NLP. My research interests are diverse, including library studies and scientometrics, (computational) literary studies, and AI applications to the humanities.
