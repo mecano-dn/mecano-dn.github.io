@@ -4,10 +4,10 @@
     <div class="container">
       <div class="row gx-5">
         <!-- events -->
-        <div class="lg:col-8">
+        <div class="lg:col-12">
           <div class="row">
-            {{ range .RegularPages }}
-              <div class="md:col-6 mb-14">
+            {{ range .RegularPages.ByParam "weight" }}
+              <div class="md:col-4 mb-14">
                 {{ partial "components/event-card" . }}
                 <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">{{ i18n "read_more" }}</a>
               </div>

@@ -8,5 +8,5 @@ description: this is meta description
 social:
   - name: email
     icon: fab fa-at
-    link: mailto:test@abc.com
+    link: mailto:doaa.elalfy@mail.huji.ac.il
 ---

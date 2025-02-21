@@ -7,6 +7,7 @@ summary: "During this three-day workshop, MECANO PhDs will receive training in D
 image: "images/illustrations/leipzig-uni.png"
 image_credit: "© Andreas Schmidt/LTM"
 link_external: ""
+weight: 1
 ---
 
 ### **Wednesday, January 22, 2025**
