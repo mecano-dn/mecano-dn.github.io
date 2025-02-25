@@ -829,13 +829,28 @@ select {
   padding-left: calc(var(--bs-gutter-x) / 2);
   margin-top: var(--bs-gutter-y);
 }
+.col {
+  flex: 1 0 0%;
+}
+.col-2 {
+  flex: 0 0 auto;
+  width: 16.666666666666668%;
+}
 .col-3 {
   flex: 0 0 auto;
   width: 25%;
 }
+.col-4 {
+  flex: 0 0 auto;
+  width: 33.333333333333336%;
+}
 .col-6 {
   flex: 0 0 auto;
   width: 50%;
+}
+.col-8 {
+  flex: 0 0 auto;
+  width: 66.66666666666667%;
 }
 .col-10 {
   flex: 0 0 auto;
@@ -1795,6 +1810,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mb-10 {
   margin-bottom: 2.5rem;
 }
+.mb-12 {
+  margin-bottom: 3rem;
+}
 .mb-14 {
   margin-bottom: 3.5rem;
 }
@@ -1914,6 +1932,15 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .fill-current {
   fill: currentColor;
+}
+.p-2 {
+  padding: 0.5rem;
+}
+.p-3 {
+  padding: 0.75rem;
+}
+.p-4 {
+  padding: 1rem;
 }
 .p-8 {
   padding: 2rem;
