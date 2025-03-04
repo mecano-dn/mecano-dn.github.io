@@ -2,7 +2,10 @@
 title: "Pulse and Physiology in Hellenistic Science"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Gabrielle Torcoletti"
+main_uni: "Hebrew University of Jerusalem"
+supervisor_1: "Orly Lewis"
+supervisor_2: "Jan Opsomer"
 weight: 4
 draft: false
 ---

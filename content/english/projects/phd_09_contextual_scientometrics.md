@@ -2,7 +2,10 @@
 title: "Contextual scientometrics: uncovering and understanding referencing patterns to the ancient canon in modern scholarly discourses"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Luisa Ripoll-Alberola"
+main_uni: "University of Leipzig"
+supervisor_1: "Manuel Burghardt"
+supervisor_2: "Mark Depauw"
 weight: 9
 draft: false
 ---

@@ -2,7 +2,10 @@
 title: "The Presence of Classics in Early Modern Book History"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Jonas Fischer"
+main_uni: "University of Helsinki"
+supervisor_1: "Mikko Tolonen"
+supervisor_2: "Margherita Fantoli"
 weight: 3
 draft: false
 ---

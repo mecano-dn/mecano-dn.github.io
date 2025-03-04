@@ -2,7 +2,10 @@
 title: "Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Doaa Elalfy"
+main_uni: "Hebrew University of Jerusalem"
+supervisor_1: "Donna Shalev"
+supervisor_2: "Marja Vierros"
 weight: 7
 draft: false
 ---

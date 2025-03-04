@@ -2,7 +2,10 @@
 title: "Detecting and Retrieving Lost Historians"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Leonardo D'Addario"
+main_uni: "University of Leipzig"
+supervisor_1: "Monica Berti"
+supervisor_2: "Stefan Schorn"
 weight: 5
 draft: false
 ---

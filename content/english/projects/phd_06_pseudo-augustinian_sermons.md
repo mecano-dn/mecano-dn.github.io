@@ -2,7 +2,10 @@
 title: "Recovering anonymous late-antique preachers in the corpus of pseudo-Augustinian sermons"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Kendall Bitner"
+main_uni: "Radboud University"
+supervisor_1: "Shari Boodts"
+supervisor_2: "Gert Partoens"
 weight: 6 
 draft: false
 ---

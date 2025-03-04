@@ -9,7 +9,9 @@
     </a>
   </h4>
   <p>{{ .Summary }}</p>
-  <p>PhD candidate: <b>{{ .Params.PhD }}</b></p>
+  <div class="bg-body">
+  <p class="p6">PhD candidate: <b>{{ .Params.PhD }}</b></p>
+</div>
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ i18n "read_more" }}
   </a>

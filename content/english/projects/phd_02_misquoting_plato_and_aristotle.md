@@ -2,7 +2,10 @@
 title: "The philosophical canon and the art of (mis)quoting Plato and Aristotle in the Commentaria in Aristotelem Graeca"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Timo Zarakovitis"
+main_uni: "KU Leuven"
+supervisor_1: "Pieter d'Hoine"
+supervisor_2: "Orly Lewis"
 weight: 2
 draft: false
 ---

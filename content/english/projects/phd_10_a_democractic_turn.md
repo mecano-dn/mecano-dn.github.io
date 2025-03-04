@@ -2,7 +2,10 @@
 title: "A democratic turn? Uncovering and understanding referencing patterns to Greco-Roman canonicity in 20th-century public discourse"
 meta_title: ""
 description: "this is meta description"
-people: ""
+PhD: "Marin-Marie Le Bris"
+main_uni: "Radboud University"
+supervisor_1: "Maarten Depourcq"
+supervisor_2: "Manuel Burghardt"
 weight: 10
 draft: false
 ---
