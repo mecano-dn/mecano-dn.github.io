@@ -1,6 +1,6 @@
 ---
-title: Nastas Jakšič
-last_name: torcoletti
+title: Nastas Jakšić
+last_name: jaksic
 role: PhD
 email: 
 image: "/images/profile-pics/jaksic.jpg"
