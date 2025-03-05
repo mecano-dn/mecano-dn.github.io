@@ -2990,6 +2990,9 @@ input#nav-toggle:checked ~ #nav-menu {
   margin-left: 0px !important;
 }
 
+html {
+  scroll-padding-top: 20%; }
+
 @media (min-width: 768px) {
 
   .md\:col-4 {

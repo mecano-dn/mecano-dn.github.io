@@ -1013,3 +1013,6 @@
 
 .gallery-slider {
   @apply ml-0 !important; }
+
+html {
+  scroll-padding-top: 20%; }
