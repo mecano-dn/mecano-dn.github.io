@@ -1,18 +1,51 @@
-<div class="bg-body dark:bg-darkmode-body">
+<div class="bg-body dark:bg-darkmode-body rounded p-2 text-left">
   {{ $image:= .Params.image }}
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
   {{ end }}
-  <h4 class="mb-3">
+  <div
+  class="rounded p-4 text-left">
+  <h5 class="mb-3">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}
     </a>
-  </h4>
-  <p>{{ .Summary }}</p>
-  <div class="bg-body">
-  <p class="p6">PhD candidate: <b>{{ .Params.PhD }}</b></p>
-</div>
-  <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+  </h5>
+  {{ $parent_page:= .Scratch.Get "parent" }}
+  {{ if eq $parent_page "individual" }}
+  <p>{{ .Content }}</p></br>
+  {{ else }}
+  <p>{{ .Summary }}</p></br>
+  {{ end }}
+  <ul class="mb-4">
+            <li class="mr-4 inline-block">
+              <p><a
+                href="{{ `people/phds/` | relLangURL }}{{ .Params.PhD | urlize }}/">
+                <i class="fa-regular fa-graduation-cap mr-2"></i
+                >{{ .Params.PhD }} ({{ .Params.Main_Uni }})
+              </a></p>
+            </li>
+  </ul>
+  <ul class="mb-4">
+            <li class="mr-4 inline-block">
+              <p>Supervisors: 
+                <li><a
+                href="{{ `people/supervisors/` | relLangURL }}{{ .Params.Supervisor_1 | urlize }}/">
+                <i class="fa-regular fa-graduation-cap mr-2"></i
+                >{{ .Params.Supervisor_1 }}
+              </a></li>
+              <li><a
+                href="{{ `people/supervisors/` | relLangURL }}{{ .Params.Supervisor_2 | urlize }}/">
+                <i class="fa-regular fa-graduation-cap mr-2"></i
+                >{{ .Params.Supervisor_2 }}
+              </a>
+              <li></p>
+            </li>
+          </ul>
+  {{ if eq $parent_page "overview" }}
+  <p> <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ i18n "read_more" }}
-  </a>
+  </a></p>
+  {{ end }}
+</div>
+  
 </div>

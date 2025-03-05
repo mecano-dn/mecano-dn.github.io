@@ -9,6 +9,7 @@
         <!--<div class="md:col-6 lg:col-6 mb-12">-->
           {{ $filterByAuthor := where site.RegularPages "Params.PhD" "==" .Title }}
           {{ range $filterByAuthor }}
+            {{ .Scratch.Set "parent" "individual" }}
             {{ partial "components/project-card" . }}
           {{ end }}
         <!--</div>-->

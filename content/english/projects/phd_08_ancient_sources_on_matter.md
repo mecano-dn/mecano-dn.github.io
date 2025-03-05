@@ -3,6 +3,9 @@ title: "Ancient Sources on Matter in Late Medieval Commentaries on Aristotle"
 meta_title: ""
 description: "this is meta description"
 PhD: "Nastas Jakšić"
+main_uni: "University of Helsinki"
+supervisor_1: "Filipe Silva"
+supervisor_2: "Jan Opsomer"
 people: ""
 weight: 8
 draft: false

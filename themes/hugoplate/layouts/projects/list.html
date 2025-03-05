@@ -1,5 +1,8 @@
 {{ define "main" }}
 {{ partial "page-header" . }}
+
+{{ .Scratch.Set "scope" "list" }}
+
   <section class="section-sm">
     <div class="container">
       <div class="row gx-5 justify-center">
@@ -7,6 +10,7 @@
           <div class="row">
             {{ range .RegularPages }}
               <div class="md:col-6 mb-14">
+                {{ .Scratch.Set "parent" "overview" }}
                 {{ partial "components/project-card" . }}
               </div>
             {{ end }}
