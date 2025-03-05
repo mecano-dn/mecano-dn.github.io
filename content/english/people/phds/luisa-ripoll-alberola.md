@@ -8,7 +8,7 @@ description: this is meta description
 social:
   - name: email
     icon: fab fa-at
-    link: mailto:test@abc.com
+    link: ripoll-alberola@informatik.uni-leipzig.de
 ---
 
 I come from Alicante, in Spain. After obtaining my bachelor's degree in Industrial Engineering from Universidad Politécnica de Madrid, I 
