@@ -1,0 +1,24 @@
+<div class="bg-body dark:bg-darkmode-body rounded p-2 text-left">
+  {{ $image:= .Params.image }}
+  {{ if $image }}
+    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
+  {{ end }}
+  <div
+  class="rounded p-4 text-left">
+  <h5 class="mb-3">
+    <a href="{{ .RelPermalink }}">
+      {{ .Title }}
+    </a>
+  </h5>
+  {{ .Scratch.Get "scope" }}
+  {{ if eq (.Scratch.Get "scope") "list" }}
+  <p>{{ .Summary }}</p></br>
+  {{ else }}
+  <p>{{ .Content }}</p></br>
+  {{ end }}
+  <p> <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+    {{ i18n "read_more" }}
+  </a></p>
+</div>
+  
+</div>
