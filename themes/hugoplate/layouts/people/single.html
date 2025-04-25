@@ -6,22 +6,16 @@
         <!--<div class="md:col-6 lg:col-6 mb-12">-->
         {{ partial "components/author-card.html" . }}
         <!--</div>-->
-        <!--<div class="md:col-6 lg:col-6 mb-12">-->
+        <!--<div class="md:col-6 lg:col-6 mb-12">
           {{ $filterByAuthor := where site.RegularPages "Params.PhD" "==" .Title }}
+          {{ if $filterByAuthor }}
           {{ range $filterByAuthor }}
             {{ .Scratch.Set "parent" "individual" }}
             {{ partial "components/project-card" . }}
           {{ end }}
-        <!--</div>-->
-        <!--
-        <div class="md:col-6 lg:col-6 mb-12">
-        {{ $filterByAuthor := where site.RegularPages "Params.Supervisor_1" "==" .Title or site.RegularPages "Params.Supervisor_2" "==" .Title}}
-          {{ range $filterByAuthor }}
-            {{ .Scratch.Set "parent" "individual" }}
-            {{ partial "components/project-card" . }}
           {{ end }}
-        </div>
-      -->
+        </div>-->
+    </div>
       <div class="row pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
