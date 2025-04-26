@@ -5,6 +5,16 @@ const toggleComment = ({ filepath, regex }) => {
   let updatedContent = fs.readFileSync(filepath, "utf8");
   const match = updatedContent.match(regex);
 
+<<<<<<< HEAD
+=======
+  if (filepath.endsWith("hugo.toml")) {
+    updatedContent = updatedContent.replace(
+      'baseURL = "https://example.org"',
+      'baseURL = "/"',
+    );
+  }
+
+>>>>>>> new-theme-version/main
   if (match) {
     const matchedContent = match[0];
     const hasComment = matchedContent.startsWith("# ");
@@ -15,8 +25,13 @@ const toggleComment = ({ filepath, regex }) => {
       );
       fs.writeFileSync(filepath, updatedContent, "utf8");
     } else {
+<<<<<<< HEAD
       const hasBreakline = matchedContent.includes("\n");
       if (hasBreakline) {
+=======
+      const hasLineBreak = matchedContent.includes("\n");
+      if (hasLineBreak) {
+>>>>>>> new-theme-version/main
         const content = matchedContent
           .split("\n")
           .map((line) => "# " + line)
@@ -28,8 +43,13 @@ const toggleComment = ({ filepath, regex }) => {
   }
 };
 
+<<<<<<< HEAD
 const getFolderName = (rootfolder) => {
   const configPath = path.join(rootfolder, "exampleSite/hugo.toml");
+=======
+const getFolderName = (rootFolder) => {
+  const configPath = path.join(rootFolder, "exampleSite/hugo.toml");
+>>>>>>> new-theme-version/main
   const getConfig = fs.readFileSync(configPath, "utf8");
   const match = getConfig.match(/theme\s*=\s*\[?"([^"\]]+)"\]?/);
   let selectedTheme = null;
@@ -45,8 +65,13 @@ const deleteFolder = (folderPath) => {
   }
 };
 
+<<<<<<< HEAD
 const createNewfolder = (rootfolder, folderName) => {
   const newFolder = path.join(rootfolder, folderName);
+=======
+const createNewFolder = (rootFolder, folderName) => {
+  const newFolder = path.join(rootFolder, folderName);
+>>>>>>> new-theme-version/main
   fs.mkdirSync(newFolder, { recursive: true });
   return newFolder;
 };
@@ -56,7 +81,11 @@ const iterateFilesAndFolders = (rootFolder, { destinationRoot }) => {
   const items = fs.readdirSync(directory, { withFileTypes: true });
   items.forEach((item) => {
     if (item.isDirectory()) {
+<<<<<<< HEAD
       createNewfolder(destinationRoot, item.name);
+=======
+      createNewFolder(destinationRoot, item.name);
+>>>>>>> new-theme-version/main
       iterateFilesAndFolders(path.join(directory, item.name), {
         currentFolder: item.name,
         destinationRoot: path.join(destinationRoot, item.name),
@@ -70,33 +99,58 @@ const iterateFilesAndFolders = (rootFolder, { destinationRoot }) => {
 };
 
 const setupProject = () => {
+<<<<<<< HEAD
   const rootfolder = path.join(__dirname, "../");
   if (!fs.existsSync(path.join(rootfolder, "themes"))) {
     // remove this part if you don't using theme demo as a module
     [
       {
         filepath: path.join(rootfolder, "exampleSite/hugo.toml"),
+=======
+  const rootFolder = path.join(__dirname, "../");
+  if (!fs.existsSync(path.join(rootFolder, "themes"))) {
+    // remove this part if you don't using theme demo as a module
+    [
+      {
+        filepath: path.join(rootFolder, "exampleSite/hugo.toml"),
+>>>>>>> new-theme-version/main
         regex: /^.*theme\s*=\s*("[^"\]]+"|\S+)/m,
       },
       {
         filepath: path.join(
+<<<<<<< HEAD
           rootfolder,
+=======
+          rootFolder,
+>>>>>>> new-theme-version/main
           "exampleSite/config/_default/module.toml",
         ),
         regex: /\[\[imports\]\]\s*\r?\npath = "([^"]+)"/,
       },
     ].forEach(toggleComment);
 
+<<<<<<< HEAD
     const folderList = ["layouts", "assets", "static"];
     const folderName = getFolderName(rootfolder);
     const newfolderName = createNewfolder(
       path.join(rootfolder, "themes"),
+=======
+    const folderList = ["layouts", "assets", "static", "tailwind-plugin"];
+    const folderName = getFolderName(rootFolder);
+    const newFolderName = createNewFolder(
+      path.join(rootFolder, "themes"),
+>>>>>>> new-theme-version/main
       folderName,
     );
 
     folderList.forEach((folder) => {
+<<<<<<< HEAD
       const source = path.join(rootfolder, folder);
       const destination = path.join(newfolderName, folder);
+=======
+      const source = path.join(rootFolder, folder);
+      const destination = path.join(newFolderName, folder);
+>>>>>>> new-theme-version/main
       if (fs.existsSync(source)) {
         fs.mkdirSync(destination, { recursive: true });
         iterateFilesAndFolders(source, {
@@ -107,9 +161,17 @@ const setupProject = () => {
       }
     });
 
+<<<<<<< HEAD
     const exampleSite = path.join(rootfolder, "exampleSite");
     iterateFilesAndFolders(exampleSite, { destinationRoot: rootfolder });
     deleteFolder(exampleSite);
+=======
+    const exampleSite = path.join(rootFolder, "exampleSite");
+    iterateFilesAndFolders(exampleSite, { destinationRoot: rootFolder });
+    deleteFolder(exampleSite);
+  } else {
+    console.log("Project already setup");
+>>>>>>> new-theme-version/main
   }
 };
 

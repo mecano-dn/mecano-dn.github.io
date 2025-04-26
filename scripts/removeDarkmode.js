@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
+<<<<<<< HEAD
 const rootDirs = ["assets/scss", "layouts"];
 const configFiles = [
   {
@@ -8,11 +9,47 @@ const configFiles = [
     patterns: ["darkmode:\\s*{[^}]*},", 'darkMode:\\s*"class",'],
   },
   {
+=======
+const rootDirs = ["assets/css", "layouts"];
+const configFiles = [
+  {
+>>>>>>> new-theme-version/main
     filePath: "exampleSite/data/theme.json",
     patterns: ["colors.darkmode"],
   },
 ];
 
+<<<<<<< HEAD
+=======
+// asset paths
+const deleteAssetList = [
+  "exampleSite/assets/images/logo-darkmode.png",
+  "layouts/partials/components/theme-switcher.html",
+];
+
+const filePaths = [
+  {
+    filePath: "layouts/partials/essentials/header.html",
+    patterns: [
+      '{{\\s*partial\\s*"components\\/theme-switcher"\\s*\\([^)]*\\)\\s*}}',
+    ],
+  },
+];
+
+filePaths.forEach(({ filePath, patterns }) =>
+  removeDarkModeFromFiles(filePath, patterns),
+);
+
+deleteAssetList.forEach((asset) => {
+  try {
+    fs.unlinkSync(asset);
+    console.log(`${path.basename(asset)} deleted successfully!`);
+  } catch (error) {
+    console.error(`${asset} not found`);
+  }
+});
+
+>>>>>>> new-theme-version/main
 rootDirs.forEach(removeDarkModeFromPages);
 configFiles.forEach(removeDarkMode);
 
@@ -23,9 +60,17 @@ function removeDarkModeFromFiles(filePath, regexPatterns) {
     const regex = new RegExp(pattern, "g");
     updatedContent = updatedContent.replace(regex, "");
   });
+<<<<<<< HEAD
   fs.writeFileSync(filePath, updatedContent, "utf8");
 }
 
+=======
+
+  fs.writeFileSync(filePath, updatedContent, "utf8");
+}
+
+// like html file
+>>>>>>> new-theme-version/main
 function removeDarkModeFromPages(directoryPath) {
   const files = fs.readdirSync(directoryPath);
 
@@ -45,6 +90,7 @@ function removeDarkModeFromPages(directoryPath) {
 
 function removeDarkMode(configFile) {
   const { filePath, patterns } = configFile;
+<<<<<<< HEAD
   if (filePath === "exampleSite/tailwind.config.js") {
     removeDarkModeFromFiles(filePath, patterns);
   } else {
@@ -52,6 +98,11 @@ function removeDarkMode(configFile) {
     patterns.forEach((pattern) => deleteNestedProperty(contentFile, pattern));
     fs.writeFileSync(filePath, JSON.stringify(contentFile));
   }
+=======
+  const contentFile = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  patterns.forEach((pattern) => deleteNestedProperty(contentFile, pattern));
+  fs.writeFileSync(filePath, JSON.stringify(contentFile));
+>>>>>>> new-theme-version/main
 }
 
 function deleteNestedProperty(obj, propertyPath) {
