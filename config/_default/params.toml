@@ -64,7 +64,6 @@ content = ""
 [metadata]
 keywords = []
 description = "MECANO: Mechanics of Canon Formation and the Transmission of Knowledge from Greco-Roman Antiquity"
-author = ""
 image = "logos/mecano-logo.png"
 
 
@@ -84,6 +83,11 @@ enable = false
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
+
+# trying to fix the deprecations
+author = ""
+social = ""
+
 
 ######################## sidebar widgets #########################
 [widgets]
