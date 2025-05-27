@@ -10,4 +10,4 @@ link_external: ""
 weight: 2
 ---
 
-Programme PDF: [click here](../events/MECANO School I - Programme for dissemination.pdf)
+Programme PDF: [click here](MECANO_School_I_Programme for dissemination.pdf)
