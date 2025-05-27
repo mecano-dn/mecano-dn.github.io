@@ -13,3 +13,5 @@ weight: 2
 {{< notice "info" >}}
 This page is under construction.
 {{< /notice >}}
+
+Programme PDF: [click here](/MECANO School I - Programme for dissemination.pdf)
