@@ -12,7 +12,7 @@ weight: 2
 
 ### **Day 0: Monday, June 9, 2025** 
 
-* ca. 19:00: Informal dinner
+* ca. 20:00: Informal dinner
 
 ### **Day 1: Tuesday, June 10, 2025**
 
