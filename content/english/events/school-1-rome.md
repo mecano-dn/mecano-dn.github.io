@@ -10,6 +10,6 @@ link_external: ""
 weight: 2
 ---
 
-{{< notice "info" >}}
-This page is under construction.
-{{< /notice >}}
+
+Programme PDF: [click here](/events/MECANO_School_I_Programme.pdf)
+

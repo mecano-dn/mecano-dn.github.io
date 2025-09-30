@@ -171,6 +171,3 @@ lazy = true
 link = "plugins/youtube-lite.js"
 lazy = true
 
-[[params.author]]
-  email = "youremail@domain.com"
-  name = "Some Person"
