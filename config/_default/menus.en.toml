@@ -41,7 +41,7 @@ pageRef="/contact"
 [[main]]
 weight = 8
 name = "Internal"
-pageRef = "https://kuleuven.sharepoint.com/sites/T0006414/SitePages/Home.aspx"
+pageRef = "/internal"
 
 # footer menu
 
@@ -56,3 +56,4 @@ pageRef = "/funding"
 [[footer]]
 
 name="Impressum"
+
