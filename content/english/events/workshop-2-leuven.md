@@ -5,8 +5,7 @@ date_end: 2025-11-19
 location: "Leuven, Belgium"
 summary: "This workshop will be devoted to hands-on training using NLP tools and building a workflow for participants' materials."
 image: "images/illustrations/leuven-fonske-dorien-monnens-cR0hu-WdCzY-unsplash.jpg"
-image_credit: "Photo by <a href="https://unsplash.com/@dorienmonnens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dorien Monnens</a> on <a href="https://unsplash.com/photos/a-statue-of-a-man-holding-a-book-in-front-of-a-building-cR0hu-WdCzY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      "
+image_credit: "© Dorien Monnens (@dorienmonnens), Unsplash"
 link_external: ""
 weight: 4
 ---
