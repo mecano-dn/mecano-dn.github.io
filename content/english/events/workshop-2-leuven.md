@@ -12,7 +12,9 @@ weight: 4
 
 This workshop will introduce the participants to a few most common and helpful tools for Natural Language Processing. Apart from the demos, each session will be accompanied by exercises and practice on the texts that participants will bring themselves.
 
-## Programme overview
+**Programme PDF**: [click here](/events/MECANO_Workshop_II_Programme.pdf)
+
+### Programme overview
 **Day 1 (9:00–16:30, Couvreur Room, Agora Learning Centre)**
 - Named Entity Recognition
 - Regular expressions
@@ -26,4 +28,3 @@ This workshop will introduce the participants to a few most common and helpful t
 - Relational databases 
 - INCEpTION annotation platform
 
-Programme PDF: [click here](/events/MECANO_Workshop_II_Programme.pdf)
