@@ -14,7 +14,7 @@ categories:
   - Blog
 ---
 
-Growing up in a culturally rich, Arabic-speaking environment, the name Ibn Sīnā (Avicenna) was familiar to me long before I encountered his writings. His *al-Qānūn fī al-Ṭibb* (الطب في القانون), or *The Canon of Medicine*, was more than a historical text—it embodied a rich scientific heritage and a legacy of intellectual inquiry that had shaped generations.
+Growing up in a culturally rich, Arabic-speaking environment, the name Ibn Sīnā (Avicenna) was familiar to me long before I encountered his writings. His *al-Qānūn fī al-Ṭibb* (القانون  في  الطب  ), or *The Canon of Medicine*, was more than a historical text—it embodied a rich scientific heritage and a legacy of intellectual inquiry that had shaped generations.
 
 During my academic research, however, I discovered something that shifted my perspective: the term *Qānūn* is not originally Arabic. Though today it is widely understood to mean “law,” *Qānūn* actually derives from the Greek word *kanōn* (κανών), meaning “measuring rod,” “standard,” or “rule.” In ancient Greek, *kanōn* referred to a carpenter’s tool used to ensure straight lines, an image that later developed into a metaphor denoting norms or standards in literature, art, religion, and science.
 
