@@ -3,7 +3,7 @@ title: How I Met MECANO
 author: Doaa Elalfy
 author_cat: "phds"
 date: 2025-10-15
-draft: false
+draft: true
 image: "images/blog/coloboma_comic.png"
 description: Growing up in an Arabic-speaking environment, I discovered that the language of medicine carries centuries of translation, transformation, and dialogue—leading me unexpectedly to MECANO.
 tags:
