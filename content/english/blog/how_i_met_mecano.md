@@ -1,5 +1,5 @@
 ---
-title: How I Met MECANO: From Lexicon to Canon
+title: "How I Met MECANO: From Lexicon to Canon"
 author: Doaa Elalfy
 author_cat: "phds"
 date: 2025-10-15
