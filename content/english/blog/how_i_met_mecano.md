@@ -32,7 +32,7 @@ To illustrate this process more clearly, consider the term *coloboma*. Derived f
 
 I first encountered the term *coloboma* in a short Greek medical papyrus at the beginning of my transition from the pharmaceutical field to the humanities. At that time, I quickly concluded that, alongside the term *belonē* (βελόνη, “surgical needle”), it referred to an eye surgery. Only later did I realize that, in its historical context, the passage actually described a facial procedure. I hadn’t misread the word but misunderstood it—unaware then of how profoundly semantic change could alter interpretation across time.
 
-![Comic: The Coloboma Confusion — When Ancient Medicine Meets Modern Practice](images/blog/coloboma_comic.png)
+![Comic: The Coloboma Confusion — When Ancient Medicine Meets Modern Practice](../assets/images/blog/coloboma_comic.png)
 
 *Image: AI-generated comic created by Doaa Elalfy, 2025. A humorous look at how linguistic shifts in medical terminology can lead to misunderstandings across centuries.*
 
