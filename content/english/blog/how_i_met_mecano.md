@@ -4,7 +4,7 @@ author: Doaa Elalfy
 author_cat: "phds"
 date: 2025-10-15
 draft: false
-description: Growing up in an Arabic-speaking environment, I discovered that the language of medicine carries centuries of translation, transformation, and dialogue—leading me unexpectedly to MECANO.
+summary: Growing up in an Arabic-speaking environment, I discovered that the language of medicine carries centuries of translation, transformation, and dialogue—leading me unexpectedly to MECANO.
 tags:
   - Digital Humanities
   - History of Medicine
