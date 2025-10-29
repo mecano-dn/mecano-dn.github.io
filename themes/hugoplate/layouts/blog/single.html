@@ -40,8 +40,10 @@
               {{ time.Format ":date_long" .PublishDate }}
             </li>
           </ul>
+          <div class="md:col-10 lg:col-7 text-justify">
           <div class="content mb-10">
             {{ .Content }}
+          </div>
           </div>
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}
@@ -62,7 +64,7 @@
               </div>
             {{ end }}
             <div class="lg:col-4 flex items-center">
-              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
+              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" true "Telegram" false "Linkedin" true "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           </div>
           <!-- comments -->
