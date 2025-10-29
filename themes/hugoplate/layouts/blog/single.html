@@ -2,7 +2,7 @@
   <section class="section pt-7">
     <div class="container">
       <div class="row justify-center">
-        <article class="lg:col-10">
+        <article class="lg:col-7 md:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
@@ -40,10 +40,8 @@
               {{ time.Format ":date_long" .PublishDate }}
             </li>
           </ul>
-          <div class="md:col-10 lg:col-7 text-justify">
           <div class="content mb-10">
             {{ .Content }}
-          </div>
           </div>
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}
