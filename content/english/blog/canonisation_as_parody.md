@@ -49,9 +49,11 @@ However, the *mechanisms* of canonisation were not stable all the time: while th
 In general, I am struck by how canonisation reveals both continuities (the persistent practice of valuation) and discontinuities (the shift from scribal to industrial production) in Western cultural transmission since antiquity. The simplification of such complex knowledge transmission processes is very suggestive and funny. One example of this humouristic mechanism at play: the meme of “It was revealed to me in a dream” shows discontinuous standards for source credibility.
 
 ![image 1](../assets/images/blog/citing_dreams.png)
+
 *This footnote goes viral cyclically on social media.*
 
 ![image 2](../assets/images/blog/modern_vs_ancient_historian.png)
+
 *Meme depicting the difficulties of being a historian in our times.*
 
 Simplifications, therefore, are a humouristic mechanism. But a funny simplification shows a good understanding of antiquity as well - or a good understanding of today’s view on antiquity. Even Umberto Eco simplifies the contemporary relationship between canon and market: the reality is that many canonical works are also best sellers in the publishing industry (Altick, 1957; Porter, 2018; Muñoz Rico et al., 2020). 
