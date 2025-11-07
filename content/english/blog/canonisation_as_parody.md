@@ -1,10 +1,10 @@
 ---
 title: "Canonisation as Parody: Reflections on Umberto Eco's *Misreadings*"
-author: "Luisa Ripoll Alberola"
+author: Luisa Ripoll-Alberola
 author_cat: "phds"
-date: 2025-10-15
+date: 2025-11-12
 draft: true
-description: ""
+summary: When conducting research, we sometimes tend to be too serious. However, intellectual parody and informed wit are possible, as Umberto Eco demonstrates in *Misreadings*.
 tags:
   - Canon formation
   - Classical reception
@@ -16,9 +16,9 @@ categories:
 image: X
 ---
 
-PhD life has a way of sneaking up on you. I didn't expect that the concepts I'm wrestling with in my research would start reshaping how I see everything - from ancient fragments to bookshop browsing. But that's exactly what happened when I thrifted a second-hand copy of Umberto Eco's *Misreadings* at Orinoco Books in Leipzig (a wonderful international bookshop I frequent for its English and Spanish titles).
+PhD life has a way of sneaking up on you. I didn't expect that the concepts I'm wrestling with in my research would start reshaping how I see everything - from ancient fragments to bookshop browsing. But that's exactly what happened when I thrifted a second-hand copy of Umberto Eco's [*Misreadings*](https://archive.org/details/misreadings0000ecou/mode/2up) at [Orinoco Books](https://orinocobooks.com/leipzig/) in Leipzig (a wonderful international bookshop I frequent for its English and Spanish titles).
 
-Published in Italian under the title *Diario minimo* (1963), the book collects the articles of the eponymous column that Eco held in the literary magazine *Il Verri* between 1959 and 1961. One would expect, from a literary magazine, weighty reflections about life and death. On the contrary, Eco’s column serves up something far more subversive. Every article builds upon humour, the kind of humour I like to call “humour of literary critics” - highly intertextual, intelligent puns. 
+Published in Italian under the title *Diario minimo* (1963), the book collects the articles of the eponymous column that Eco held in the literary magazine [*Il Verri*](https://it.wikipedia.org/wiki/Il_Verri) between 1959 and 1961. One would expect, from a literary magazine, weighty reflections about life and death. On the contrary, Eco’s column serves up something far more subversive. Every article builds upon humour, the kind of humour I like to call “humour of literary critics” - highly intertextual, intelligent puns. 
 
 ### Fragments and False Reconstructions
 
