@@ -13,7 +13,7 @@ tags:
   - Historiography
 categories:
   - Blog
-image: X
+image: ../assets/images/blog/misreadings_cover.jpeg
 ---
 
 PhD life has a way of sneaking up on you. I didn't expect that the concepts I'm wrestling with in my research would start reshaping how I see everything - from ancient fragments to bookshop browsing. But that's exactly what happened when I thrifted a second-hand copy of Umberto Eco's [*Misreadings*](https://archive.org/details/misreadings0000ecou/mode/2up) at [Orinoco Books](https://orinocobooks.com/leipzig/) in Leipzig (a wonderful international bookshop I frequent for its English and Spanish titles).
@@ -48,9 +48,11 @@ However, the *mechanisms* of canonisation were not stable all the time: while th
 
 In general, I am struck by how canonisation reveals both continuities (the persistent practice of valuation) and discontinuities (the shift from scribal to industrial production) in Western cultural transmission since antiquity. The simplification of such complex knowledge transmission processes is very suggestive and funny. One example of this humouristic mechanism at play: the meme of “It was revealed to me in a dream” shows discontinuous standards for source credibility.
 
-[image 1]
+![image 1](../assets/images/blog/citing_dreams.png)
+*This footnote goes viral cyclically on social media.*
 
-[image 2]
+![image 2](../assets/images/blog/modern_vs_ancient_historian.png)
+*Meme depicting the difficulties of being a historian in our times.*
 
 Simplifications, therefore, are a humouristic mechanism. But a funny simplification shows a good understanding of antiquity as well - or a good understanding of today’s view on antiquity. Even Umberto Eco simplifies the contemporary relationship between canon and market: the reality is that many canonical works are also best sellers in the publishing industry (Altick, 1957; Porter, 2018; Muñoz Rico et al., 2020). 
 
