@@ -15,6 +15,7 @@ categories:
   - Blog
 image: "/images/blog/misreadings_cover.jpeg"
 ---
+<img src="/images/blog/misreadings_cover.jpeg" alt="Misreadings cover" style="max-width: 400px; width: 100%;">
 
 PhD life has a way of sneaking up on you. I didn't expect that the concepts I'm wrestling with in my research would start reshaping how I see everything - from ancient fragments to bookshop browsing. But that's exactly what happened when I thrifted a second-hand copy of Umberto Eco's [*Misreadings*](https://archive.org/details/misreadings0000ecou/mode/2up) at [Orinoco Books](https://orinocobooks.com/leipzig/) in Leipzig (a wonderful international bookshop I frequent for its English and Spanish titles).
 
@@ -56,7 +57,7 @@ In general, I am struck by how canonisation reveals both continuities (the persi
 
 *Figure 1: This footnote goes viral cyclically on social media.*
 
-![image 2](../assets/images/blog/modern_vs_ancient_historian.png)
+![image 2](../assets/images/blog/modern_vs_ancient_historian.png){width=400px}
 
 *Figure 2: Meme depicting the difficulties of being a historian in our times.*
 
