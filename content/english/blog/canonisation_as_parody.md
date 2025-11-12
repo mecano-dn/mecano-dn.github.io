@@ -1,5 +1,5 @@
 ---
-title: "Canonisation as Parody: Reflections on Umberto Eco's *Misreadings*"
+title: "Canonisation as Parody: Reflections on Umberto Eco's <em>Misreadings</em>"
 author: Luisa Ripoll-Alberola
 author_cat: "phds"
 date: 2025-11-12
@@ -8,12 +8,12 @@ summary: When conducting research, we sometimes tend to be too serious. However,
 tags:
   - Canon formation
   - Classical reception
-  - Umberto Eco
+  - name: "Umberto Eco"
   - Literary criticism
   - Historiography
 categories:
   - Blog
-image: ../assets/images/blog/misreadings_cover.jpeg
+image: /assets/images/blog/misreadings_cover.jpeg
 ---
 
 PhD life has a way of sneaking up on you. I didn't expect that the concepts I'm wrestling with in my research would start reshaping how I see everything - from ancient fragments to bookshop browsing. But that's exactly what happened when I thrifted a second-hand copy of Umberto Eco's [*Misreadings*](https://archive.org/details/misreadings0000ecou/mode/2up) at [Orinoco Books](https://orinocobooks.com/leipzig/) in Leipzig (a wonderful international bookshop I frequent for its English and Spanish titles).
@@ -26,17 +26,25 @@ I would like to highlight a couple of the pieces of this collection, as pretexts
 
 This is a recurrent source of fun in Eco’s essays - the flawed process of transmission of texts. Another article follows similar premises, “**Industry and Sexual Repression in a Po Valley Society**”, where confusion reaches such heights that the scholar understands that, in contemporary Italy, industry holds the religious power, while church is a purely economic institution. I really like this temporal recursiveness of study over a territory: as the remnants of Roman Empire are studied thoroughly today, current Italian culture is examined in a hypothetical future under a similar archaeological lens. These concerns were already present in Thucydides (1.10.2): surviving material artifacts can lead to deep misreadings of history.
 
-> For just suppose the city of Sparta were wiped out and all that was left were its shrines and the foundations of its buildings, I think that years later future generations would find it hard to believe that its power matched up to its reputation. Yet in fact the Spartans occupy two-fifths of the Peloponnese and are leaders of the whole of it as well as of many allies beyond it. Nevertheless, because they are not united in one city and have no lavish shrines or public buildings but instead live in village settlements in the traditional Greek manner, they would be underestimated. On the other hand, if the Athenians were to suffer the same fate they would be thought twice as powerful as they actually are just on the evidence of what one can see. 
+<! -- > For just suppose the city of Sparta were wiped out and all that was left were its shrines and the foundations of its buildings, I think that years later future generations would find it hard to believe that its power matched up to its reputation. Yet in fact the Spartans occupy two-fifths of the Peloponnese and are leaders of the whole of it as well as of many allies beyond it. Nevertheless, because they are not united in one city and have no lavish shrines or public buildings but instead live in village settlements in the traditional Greek manner, they would be underestimated. On the other hand, if the Athenians were to suffer the same fate they would be thought twice as powerful as they actually are just on the evidence of what one can see. 
 >
-> — *Translation Mynott (2013)*
+> — *Translation Mynott (2013)* -->
+
+<div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
+For just suppose the city of Sparta were wiped out and all that was left were its shrines and the foundations of its buildings, I think that years later future generations would find it hard to believe that its power matched up to its reputation. Yet in fact the Spartans occupy two-fifths of the Peloponnese and are leaders of the whole of it as well as of many allies beyond it. Nevertheless, because they are not united in one city and have no lavish shrines or public buildings but instead live in village settlements in the traditional Greek manner, they would be underestimated. On the other hand, if the Athenians were to suffer the same fate they would be thought twice as powerful as they actually are just on the evidence of what one can see.
+
+<div style="margin-top: 10px; font-style: normal; font-size: 0.9em;">— <em>Translation Mynott (2013)</em></div>
+</div>
 
 These fragments make me think inevitably about [Leo’s project inside the MECANO network](https://mecano-dn.eu/projects/phd_05_detecting_retrieving_lost_historians/). While he is studying fragmentary texts of Ancient historians, he faces exactly these interpretive dangers - the temptation to fill gaps too confidently, to project present assumptions onto partial evidence. Yet his approach of studying relationships *between* ancient texts offers some protection against pure hermeneutic projection - and I believe it is the way to go.
 
 ### When Classics Meet Corporate Publishing
 
-Undisputedly, my favourite piece is “**Regretfully, we are returning your...**“. In this article, canonical works of world literature such as the *Odyssey*, the *Divine Comedy* or *Don Quixote* arrive to a contemporary publisher’s office and face editorial scrutiny, always leading to rejection of the manuscript. The piece consists of a collection of negative reader reports of these works. This way, the literary merit and timeless qualities that make these books *classics* are ironically “rejected” in favour of commercial appeal. My favourite puns were the ones about authorship and rights. See this excerpt of the reader report of the *Odyssey* (Eco, 1994, pp. 35-36):
+Undisputedly, my favourite piece is “**Regretfully, we are returning your...**“. In this article, canonical works of world literature such as the *Odyssey*, the *Divine Comedy* or *Don Quixote* arrive to a contemporary publisher’s office and face editorial scrutiny, always leading to rejection of the manuscript. The piece consists of a collection of negative reader reports of these works. This way, the literary merit and timeless qualities that make these books *classics* are ironically “rejected” in favour of commercial appeal. My favourite puns were the ones about authorship and rights. See this excerpt of the reader report of the *Odyssey* (Eco 1994, pp. 35-36):
 
-> In a word, this Homer is the right stuff. He’s smart. Too smart, maybe... I wonder if it’s all really his own work. I know, of course, a writer can improve with experience (his third book will probably be a sensation), but what makes me uncomfortable—and, finally, leads me to cast a negative vote—is the mess the question of rights will cause. (...) Michael says the rights don’t belong to Homer, and certain aeolian bards will have to be paid off, since they due royalties on some parts. A literary agent who works out of Chios says the rights belong to the local rhapsodists, who virtually ghosted the book; but it's not clear whether they are active members of that island's Writers' Guild. A PR in Smyrna, on the other hand, says the rights belong exclusively to Homer, only he's dead, and therefore the city is entitled to all royalties. But Smyrna isn't the only city that makes such a claim. The impossibility of establishing if and when Homer died means we can't invoke the '43 law regarding works published fifty years after the author's death. At this point a character by the name of Callinus pops up, insisting not only that he holds all rights but that, along with *The Odyssey*, we must buy a package including *Thebais*, *Epigoni*, and *The Cyprian Lays*. Apart from the fact that these aren't worth a dime, a number of experts think they're not even by Homer. And how do we market them? These people are talking big bucks now, and they're seeing how far they can push us. I tried asking Aristarchus of Samothrace for a preface; he has clout, and he's a good writer, too, and I thought maybe he could tidy the work up. But he wants to indicate, in the body of the book, what's authentic and what isn't; we end up with a critical edition and zilch sales. Better leave the whole thing to some university press that will take twenty years to produce the book, which they'll price at a couple hundred dollars a copy, and maybe a few libraries will actually buy it.
+<div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
+In a word, this Homer is the right stuff. He’s smart. Too smart, maybe... I wonder if it’s all really his own work. I know, of course, a writer can improve with experience (his third book will probably be a sensation), but what makes me uncomfortable—and, finally, leads me to cast a negative vote—is the mess the question of rights will cause. (...) Michael says the rights don’t belong to Homer, and certain aeolian bards will have to be paid off, since they due royalties on some parts. A literary agent who works out of Chios says the rights belong to the local rhapsodists, who virtually ghosted the book; but it's not clear whether they are active members of that island's Writers' Guild. A PR in Smyrna, on the other hand, says the rights belong exclusively to Homer, only he's dead, and therefore the city is entitled to all royalties. But Smyrna isn't the only city that makes such a claim. The impossibility of establishing if and when Homer died means we can't invoke the '43 law regarding works published fifty years after the author's death. At this point a character by the name of Callinus pops up, insisting not only that he holds all rights but that, along with *The Odyssey*, we must buy a package including *Thebais*, *Epigoni*, and *The Cyprian Lays*. Apart from the fact that these aren't worth a dime, a number of experts think they're not even by Homer. And how do we market them? These people are talking big bucks now, and they're seeing how far they can push us. I tried asking Aristarchus of Samothrace for a preface; he has clout, and he's a good writer, too, and I thought maybe he could tidy the work up. But he wants to indicate, in the body of the book, what's authentic and what isn't; we end up with a critical edition and zilch sales. Better leave the whole thing to some university press that will take twenty years to produce the book, which they'll price at a couple hundred dollars a copy, and maybe a few libraries will actually buy it.
+</div>
 
 You can imagine that the Bible fares no better... as the editor’s name “doesn’t appear anywhere on the manuscript, not even in the table of contents. Is there some reason for keeping his identity a secret?”. The reviewer suggests keeping only the first five chapters: “we’re on sure ground there” (p. 34).
 
@@ -44,19 +52,19 @@ You can imagine that the Bible fares no better... as the editor’s name “does
 
 Eco's playful scenarios illuminate something profound about Western cultural transmission. Canonisation - the process of deeming some works more important than others - shows a clear continuation since antiquity, as literary criticism is as old as literary creation itself. We can see the effects of canonisation everywhere, whether in ancient anthologies, or in the headquarters of Penguin Random House. 
 
-However, the *mechanisms* of canonisation were not stable all the time: while the economic value to be extracted from works in the book market has always affected canonisation and preservation (Johnson & Parker, 2009), today’s process involves industrial production, mass marketing, and corporate consolidation.
+However, the *mechanisms* of canonisation were not stable all the time: while the economic value to be extracted from works in the book market has always affected canonisation and preservation (Johnson & Parker 2009), today’s process involves industrial production, mass marketing, and corporate consolidation.
 
 In general, I am struck by how canonisation reveals both continuities (the persistent practice of valuation) and discontinuities (the shift from scribal to industrial production) in Western cultural transmission since antiquity. The simplification of such complex knowledge transmission processes is very suggestive and funny. One example of this humouristic mechanism at play: the meme of “It was revealed to me in a dream” shows discontinuous standards for source credibility.
 
 ![image 1](../assets/images/blog/citing_dreams.png)
 
-*This footnote goes viral cyclically on social media.*
+*Figure 1: This footnote goes viral cyclically on social media.*
 
 ![image 2](../assets/images/blog/modern_vs_ancient_historian.png)
 
-*Meme depicting the difficulties of being a historian in our times.*
+*Figure 2: Meme depicting the difficulties of being a historian in our times.*
 
-Simplifications, therefore, are a humouristic mechanism. But a funny simplification shows a good understanding of antiquity as well - or a good understanding of today’s view on antiquity. Even Umberto Eco simplifies the contemporary relationship between canon and market: the reality is that many canonical works are also best sellers in the publishing industry (Altick, 1957; Porter, 2018; Muñoz Rico et al., 2020). 
+Simplifications, therefore, are a humouristic mechanism. But a funny simplification shows a good understanding of antiquity as well - or a good understanding of today’s view on antiquity. Even Umberto Eco simplifies the contemporary relationship between canon and market: the reality is that many canonical works are also best sellers in the publishing industry (Altick 1957; Porter 2018; Muñoz Rico et al. 2020). 
 
 As someone studying how ancient texts achieved their authoritative status, I find Eco's humour very liberating. It reminds us that the canonical works we treat with reverence have a relationship with lightness and randomness. Recognising the contingent, sometimes absurd elements in cultural transmission doesn't undermine serious scholarship. Instead, it might make our work more honest, more nuanced, and certainly more enjoyable. After all, if we can't occasionally laugh at our own interpretive blind spots, we might just become the confused future scholars in Eco's "Fragments" - so certain of our reconstructions that we miss what's right in front of us.
 
