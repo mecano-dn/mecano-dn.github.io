@@ -1,5 +1,23 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image:= .Params.image }}
+  
+  {{ if not $image }}
+    {{ $markdown := .RawContent }}
+    {{ $mdImageRegex := `!\[.*?\]\((.*?)\)` }}
+    {{ $match := findRE $mdImageRegex $markdown 1 }}
+    {{ if $match }}
+      {{ $extractedPath := replaceRE $mdImageRegex "$1" (index $match 0) }}
+      {{ $image = $extractedPath }}
+    
+      {{/* Normalize the path: convert ../assets/images to /images */}}
+      {{ if hasPrefix $image "../assets/images" }}
+        {{ $image = replaceRE `^\.\./assets/images` "/images" $image }}
+      {{ else if hasPrefix $image "assets/images" }}
+        {{ $image = replaceRE `^assets/images` "/images" $image }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded max-h-64 object-cover") }}
   {{ end }}
