@@ -5,7 +5,7 @@
   {{ end }}
   <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">
-      {{ .Title }}
+      {{ .Title | safeHTML }}
     </a>
   </h4>
   {{ $categories:= .Params.categories }}
