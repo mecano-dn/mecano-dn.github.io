@@ -5,8 +5,8 @@
         <article class="lg:col-7 md:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
-            <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "max-w-md rounded") }}
+            <div class="mb-10 flex justify-center">
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "max-w-[250px] md:max-w-[400px] lg:max-w-[500px] rounded") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4">
