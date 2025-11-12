@@ -3,7 +3,7 @@ title: "Canonisation as Parody: Reflections on Umberto Eco's *Misreadings*"
 author: Luisa Ripoll-Alberola
 author_cat: "phds"
 date: 2025-11-12
-draft: true
+draft: false
 summary: When conducting research, we sometimes tend to be too serious. However, intellectual parody and informed wit are possible, as Umberto Eco demonstrates in *Misreadings*.
 tags:
   - Canon formation
