@@ -8,7 +8,7 @@ summary: When conducting research, we sometimes tend to be too serious. However,
 tags:
   - Canon formation
   - Classical reception
-  - name: "Umberto Eco"
+  - "Umberto Eco"
   - Literary criticism
   - Historiography
 categories:
