@@ -18,35 +18,35 @@ The **hosting universities** each host two PhD candidates.
 
 {{< accordion "**KU Leuven**" >}}
 
-- [Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia](https://mecano-dn.eu/projects/phd_01_citations_quotations_pliny/). [PhD candidate](https://mecano-dn.eu/people/phds/valeria-irene-boano/)
-- The philosophical canon and the art of (mis)quoting Plato and Aristotle in the Commentaria in Aristotelem Graeca
+- PhD Project: [Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia](https://mecano-dn.eu/projects/phd_01_citations_quotations_pliny/). PhD Candidate: [Valeria Irene Boano](https://mecano-dn.eu/people/phds/valeria-irene-boano/).
+- PhD Project: [The philosophical canon and the art of (mis)quoting Plato and Aristotle in the Commentaria in Aristotelem Graeca](https://mecano-dn.eu/projects/phd_02_misquoting_plato_and_aristotle/). PhD Candidate: [Timo Zarakovitis](https://mecano-dn.eu/people/phds/timo-zarakovitis/).
 
 {{< /accordion >}}
 
 {{< accordion "**University of Helsinki**" >}}
 
-- The Presence of Classics in Early Modern Book History
-- Ancient Sources on Matter in Late Medieval Commentaries on Aristotle
+- PhD Project: [The Presence of Classics in Early Modern Book History](https://mecano-dn.eu/projects/phd_03_the_presence_of_classics/). PhD Candidate: [Jonas Fischer](https://mecano-dn.eu/people/phds/jonas-fischer/).
+- PhD Project: [Ancient Sources on Matter in Late Medieval Commentaries on Aristotle](https://mecano-dn.eu/projects/phd_08_ancient_sources_on_matter/). PhD Candidate: [Nastas Jakšić](https://mecano-dn.eu/people/phds/nastas-jaksic/).
 
 {{< /accordion >}}
 {{< accordion "**University of Leipzig**" >}}
 
-- Detecting and Retrieving Lost Historians
-- Contextual scientometrics – Uncovering and understanding referencing patterns to the ancient canon in modern scholarly discourses
+- PhD Project: [Detecting and Retrieving Lost Historians](https://mecano-dn.eu/projects/phd_05_detecting_retrieving_lost_historians/). PhD Candidate: [Leonardo D'Addario](https://mecano-dn.eu/people/phds/leonardo-daddario/).
+- PhD Project: [Contextual scientometrics – Uncovering and understanding referencing patterns to the ancient canon in modern scholarly discourses](https://mecano-dn.eu/projects/phd_09_contextual_scientometrics/). PhD Candidate: [Luisa Ripoll-Alberola](https://mecano-dn.eu/people/phds/luisa-ripoll-alberola/).
 
 {{< /accordion >}}
 
 {{< accordion "**Radboud University Nijmegen**" >}}
 
-- Recovering anonymous late-antique preachers in the corpus of pseudo-Augustinian sermons
-- A democratic turn? Uncovering and understanding referencing patterns to Greco-Roman canonicity in 20th-Century Public Discourse
+- PhD Project: [Recovering anonymous late-antique preachers in the corpus of pseudo-Augustinian sermons](https://mecano-dn.eu/projects/phd_06_pseudo-augustinian_sermons/). PhD Candidate: [Kendall Bitner](https://mecano-dn.eu/people/phds/kendall-bitner/).
+- PhD Project: [A democratic turn? Uncovering and understanding referencing patterns to Greco-Roman canonicity in 20th-Century Public Discourse](https://mecano-dn.eu/projects/phd_10_a_democractic_turn/). PhD Candidate: [Marin-Marie Le Bris][https://mecano-dn.eu/people/phds/marin-marie-le-bris/].
 
 {{< /accordion >}}
 
 {{< accordion "**Hebrew University of Jerusalem**" >}}
 
-- Pulse and Physiology in Hellenistic Science
-- Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen
+- PhD Project: [Pulse and Physiology in Hellenistic Science](https://mecano-dn.eu/projects/phd_04_pulse_and_physiology/). PhD Candidate: [Gabriele Torcoletti](https://mecano-dn.eu/people/phds/gabriele-torcoletti/).
+- PhD Project: [Syntax, formulaic structures, and canon-marking in Greek and Arabic: documentary texts and Galen](https://mecano-dn.eu/projects/phd_07_syntax_formulaic_structures_canon_marking/). PhD Candidate: [Doaa Elalfy](https://mecano-dn.eu/people/phds/doaa-elalfy/).
 
 {{< /accordion >}}
 
