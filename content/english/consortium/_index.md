@@ -18,7 +18,7 @@ The **hosting universities** each host two PhD candidates.
 
 {{< accordion "**KU Leuven**" >}}
 
-- Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia
+- [Citations and quotations in the Naturalis Historia: creating the canon in the Encyclopaedia](https://mecano-dn.eu/projects/phd_01_citations_quotations_pliny/). [PhD candidate](https://mecano-dn.eu/people/phds/valeria-irene-boano/)
 - The philosophical canon and the art of (mis)quoting Plato and Aristotle in the Commentaria in Aristotelem Graeca
 
 {{< /accordion >}}
