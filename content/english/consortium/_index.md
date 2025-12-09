@@ -39,7 +39,7 @@ The **hosting universities** each host two PhD candidates.
 {{< accordion "**Radboud University Nijmegen**" >}}
 
 - PhD Project: [Recovering anonymous late-antique preachers in the corpus of pseudo-Augustinian sermons](https://mecano-dn.eu/projects/phd_06_pseudo-augustinian_sermons/). PhD Candidate: [Kendall Bitner](https://mecano-dn.eu/people/phds/kendall-bitner/).
-- PhD Project: [A democratic turn? Uncovering and understanding referencing patterns to Greco-Roman canonicity in 20th-Century Public Discourse](https://mecano-dn.eu/projects/phd_10_a_democractic_turn/). PhD Candidate: [Marin-Marie Le Bris][https://mecano-dn.eu/people/phds/marin-marie-le-bris/].
+- PhD Project: [A democratic turn? Uncovering and understanding referencing patterns to Greco-Roman canonicity in 20th-Century Public Discourse](https://mecano-dn.eu/projects/phd_10_a_democractic_turn/). PhD Candidate: [Marin-Marie Le Bris](https://mecano-dn.eu/people/phds/marin-marie-le-bris/).
 
 {{< /accordion >}}
 
