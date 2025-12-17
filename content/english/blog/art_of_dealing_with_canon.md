@@ -19,7 +19,7 @@ image: "/images/blog/christmas_special.jpg"
 
 ### Ancient Greek Lyric Poetry and Music
 
-Since I started my studies in Classical Literature, I have always loved to look for what I have been learning about the ancients in contemporary culture. I find it a good and fun exercise that not only trains my mind to think beyond academia but also allows me to discover that some features of Greek and Roman literature basically survived the course of time and entered, though with some differences, the modern culture. And I enjoy doing this with contemporary songs especially.
+Since I started my studies in Classical Literature, I have always loved to look for what I have been learning about the ancients in contemporary culture. I find it a good and fun exercise that, not only trains my mind to think beyond academia, but also allows me to discover that some features of Greek and Roman literature basically survived the course of time, and entered, though with some differences, the modern culture. I enjoy doing this with contemporary songs especially.
 
 The reason is probably that my favourite genre of Greek literature has always been archaic lyric poetry. I am referring, for example, to the poems of Sappho, Alcaeus, Pindar, and so on. I love everything about them: their themes, their style, and, above all, their metrical structure, which, in most cases, is the only feature that tells us something about their now lost music. And if you are wondering, yes: these poems were accompanied by music and actually sung. In other words, they were nothing but songs, and our different perception of them is simply due to the fact that we are used to reading them in books. Therefore, it totally makes sense for me to try to search for characteristics of this ancient genre in contemporary music. 
 
@@ -71,7 +71,7 @@ This discourse construction also serves as a strategy to engage with the canon o
 
 ### How to deal with the Canon in ancient times: the *praeteritio*
 
-As mentioned above, ancient historiographers also criticise and reject the canon to establish their coherence and uniformity with it, though they employ different techniques and methods. For example, Polybius dedicated a whole book of The Histories to taking issue with Timaeus’ historiographical method, while at the same time he begins his narrative from exactly where Timaeus had left off. But this is obviously different from what I outlined above. Indeed, I noticed the presence of this discourse construction in “All I Want for Christmas Is You” not by thinking of some passages from Thucydides or Polybius, but rather of a lyric poem by Ibycus of Rhegium (second half of 6th BCE). Let us take a look at some sections of the text (S151 = *PMG* 282a lines 10-31 and 40-48):
+As mentioned above, ancient historiographers also criticised and rejected the canon to establish their coherence and uniformity with it, though they employed different techniques and methods. For example, Polybius dedicated a whole book of The Histories to taking issue with Timaeus’ historiographical method, while at the same time he begins his narrative from exactly where Timaeus had left off. But this is obviously different from what I outlined above. Indeed, I noticed the presence of this discourse construction in *All I Want for Christmas Is You* not by thinking of some passages from Thucydides or Polybius, but rather of a lyric poem by Ibycus of Rhegium (second half of 6th BCE). Let us take a look at some sections of the text (S151 = *PMG* 282a lines 10-31 and 40-48):
 
 <div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
   
@@ -109,6 +109,7 @@ Sometimes, bridging the past and the present can make things clearer and more un
 - West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
  
 - Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+
 
 
 
