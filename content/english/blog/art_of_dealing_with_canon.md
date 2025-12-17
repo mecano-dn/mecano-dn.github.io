@@ -4,7 +4,7 @@ author: Leonardo D'Addario
 author_cat: "phds"
 date: 2025-12-16
 draft: false
-summary: Because of its enduring success, Mariah Carey’s *All I Want for Christmas Is You* can be considered part of the canon of Christmas songs. But have you ever wondered how it engages with that tradition to earn its place within it? The answer may lie in a rhetorical strategy that is 2500 years old.
+summary: Because of its enduring success, Mariah Carey’s *All I Want for Christmas Is You* can be considered part of the canon of Christmas songs. But have you ever wondered how it deals with that tradition to claim its place within it? The answer may lie in a rhetorical strategy that is 2500 years old.
 tags:
   - Canon formation
   - Pop culture
@@ -112,5 +112,6 @@ Sometimes, bridging the past and the present can make things clearer and more un
  - West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
  
  - Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+
 
 
