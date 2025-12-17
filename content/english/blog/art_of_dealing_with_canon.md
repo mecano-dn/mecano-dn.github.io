@@ -36,7 +36,6 @@ However, I will not address the questions of *why* and *if* Carey’s masterpiec
 First, let us take a look at the lyrics of the song.
 
 <div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
-
 **Verse 1** <br>
 **I don't** want a lot for Christmas <br>
 There is just one thing I need (And I) <br>
@@ -63,7 +62,6 @@ Underneath the mistletoe <br>
 To the North Pole for Saint Nick (Ah) <br>
 **I won't** even stay awake to <br>
 Hear those magic reindeer click <br>
-
 </div>
 
 From the very first line, the song is built around the negation and refusal of Christmas traditions and features (e.g., presents, stockings, snow), as the singer cares only about the person she loves. The structure of each verse is a progression of negations that creates expectancy in the listener, who wonders what the actual object of desire is, and leads to the chorus, which provides the answer. This rhetorical device has the effect of emphasizing the main subject of the song by comparing it with the elements listed in the verses and presented as less important through their rejection.
@@ -75,7 +73,6 @@ This discourse construction also serves as a strategy to engage with the canon o
 As mentioned above, ancient historiographers also criticise and reject the canon to establish their coherence and uniformity with it, though they employ different techniques and methods. For example, Polybius dedicated a whole book of The Histories to taking issue with Timaeus’ historiographical method, while at the same time he begins his narrative from exactly where Timaeus had left off. But this is obviously different from what I outlined above. Indeed, I noticed the presence of this discourse construction in “All I Want for Christmas Is You” not by thinking of some passages from Thucydides or Polybius, but rather of a lyric poem by Ibycus of Rhegium (second half of 6th BCE). Let us take a look at some sections of the text (S151 = *PMG* 282a lines 10-31 and 40-48):
 
 <div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
-
 **Now [it was] my desire neither to sing of** host-deceiving Paris **nor** slender-ankled Cassandra and the other children of Priam and the unmentionable day of capture of high-gated Troy, **nor**… the proud excellence of heroes whom hollow, many-bolted [ships] brought as an evil for [Troy], noble heroes; lord Agamemnon ruled them, Pleisthenid, king, lord of men, noble child of Atreus.... On these events might the skilled Heliconian Muses embark…; but **no quick [mortal] man could say each one**, [how great] was [the number] of ships which came from Aulis across the Aegean sea from Argos to horse-rearing [Troy], and the bronze-shielded men, sons of the Achaeans [inside]; of them, noblest with the spear… swift-footed Achilles and great valiant [Ajax] son of Telamon
 
 […]
@@ -83,8 +80,6 @@ As mentioned above, ancient historiographers also criticise and reject the canon
 …golden-girdled Hyllis bore, and to him, then, Trojans and Danaans compared Troilus, like gold already thrice-refined to orichalc, very alike in lovely form. **Among them you too Polycrates, will have immortal glory for beauty forever, as according to my song and fame**.
 
 <div style="margin-top: 10px; font-style: normal; font-size: 0.9em;"><em>(Greek text edited and translated by Wilkinson 2013)</em></div>
-</div>
-
 </div>
 
 This song was intended as an encomium of Polycrates, the tyrant of Samos, who is addressed only in the very last lines. The whole poem is structured as a *recusatio*, that is a refusal, of the topics of the Trojan cycle. Ibycus states that he does not wish to sing about Paris, Cassandra, the fall of Troy, etc. He distances himself from the canon of epic tradition, because no man can narrate all these events. However, by stating that he does not want to narrate epic topics, Ibycus paradoxically ends up singing about them. This is a figure of speech called *praeteritio* (Latin: “omission,” “passing over”), and it leaves the listener wondering what the poet actually wants to sing about until the end. Here, Polycrates is finally introduced and placed on the same—if not a higher—level as the heroes mentioned throughout the poem: “Among them you too, Polycrates, will have immortal glory” (Cf. Hutchinson 2001: 235-236, and Wilkinson 2013: 55-57).
@@ -99,19 +94,20 @@ Sometimes, bridging the past and the present can make things clearer and more un
 
 ### References
 
- - Budelmann, Felix. 2018. *Greek lyric a selection*. Cambridge New York: Cambridge university press.
+- Budelmann, Felix. 2018. *Greek lyric a selection*. Cambridge New York: Cambridge university press.
 
- - Frere-Jones, Sasha. “On Top: Mariah Carey’s Record-Breaking Career.” *The New Yorker*, April 3, 2006. Archived from the original on October 13, 2010.
+- Frere-Jones, Sasha. “On Top: Mariah Carey’s Record-Breaking Career.” *The New Yorker*, April 3, 2006. Archived from the original on October 13, 2010.
  
- - Hutchinson, G. O. 2001. *Greek Lyric Poetry a Commentary on Selected Larger Pieces Alcman, Stesichorus, Sappho, Alcaeus, Ibycus, Anacreon, Simonides, Bacchylides, Pindar, Sophocles, Euripides*. Oxford: Oxford university press.
+- Hutchinson, G. O. 2001. *Greek Lyric Poetry a Commentary on Selected Larger Pieces Alcman, Stesichorus, Sappho, Alcaeus, Ibycus, Anacreon, Simonides, Bacchylides, Pindar, Sophocles, Euripides*. Oxford: Oxford university press.
  
- - Marincola, John. 1997. *Authority and Tradition in Ancient Historiography*. Cambridge: Cambridge University Press.
+- Marincola, John. 1997. *Authority and Tradition in Ancient Historiography*. Cambridge: Cambridge University Press.
  
- - Martinelli, Maria Chiara. 1997. *Gli strumenti del poeta elementi di metrica greca*. Rist. riveduta e Corretta. Bologna: Cappelli.
+- Martinelli, Maria Chiara. 1997. *Gli strumenti del poeta elementi di metrica greca*. Rist. riveduta e Corretta. Bologna: Cappelli.
  
- - West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
+- West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
  
- - Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+- Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+
 
 
 
