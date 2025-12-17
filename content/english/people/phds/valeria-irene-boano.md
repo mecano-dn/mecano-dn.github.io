@@ -13,5 +13,6 @@ social:
 
 My name is Valeria and I come from Milano, in Italy, where I studied at Università Cattolica del Sacro Cuore. I earned both my bachelor's degree and my master's degree in Classics, with a focus on language and linguistics. During the master, I integrated my studies with Computational Linguistics applied to Latin. My interests include NLP for Ancient Languages, Linked Open Data and Digital Classics.
 
+<br>
 
-**Research Keywords**: NLP for Ancient Languages; Digital Classics; Linked Open Data; Latin Linguistics; Linguistic Annotation.
+**Research Areas**: NLP for Ancient Languages; Digital Classics; Linked Open Data; Latin Linguistics; Linguistic Annotation.
