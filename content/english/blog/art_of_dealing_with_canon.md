@@ -36,6 +36,7 @@ However, I will not address the questions of *why* and *if* Carey’s masterpiec
 First, let us take a look at the lyrics of the song.
 
 <div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
+
 **Verse 1** <br>
 **I don't** want a lot for Christmas <br>
 There is just one thing I need (And I) <br>
@@ -107,6 +108,7 @@ Sometimes, bridging the past and the present can make things clearer and more un
 - West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
  
 - Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+
 
 
 
