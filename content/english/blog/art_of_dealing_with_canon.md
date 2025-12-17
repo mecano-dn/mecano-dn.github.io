@@ -72,7 +72,7 @@ This discourse construction also serves as a strategy to engage with the canon o
 
 ### How to deal with the Canon in ancient times: the *praeteritio*
 
-As mentioned above, ancient historiographers also criticise and reject the canon to establish their coherence and uniformity with it, though they employ different techniques and methods. For example, Polybius dedicated a whole book of The Histories to taking issue with Timaeus’ historiographical method, while at the same time he begins his narrative from exactly where Timaeus had left off. But this is obviously different from what I outlined above. Indeed, I noticed the presence of this discourse construction in “All I Want for Christmas Is You” not by thinking of some passages from Thucydides or Polybius, but rather of a lyric poem by Ibycus of Rhegium (second half of 6th BCE). Let us take a look at some sections of the text (S151 = *PMG* 282a ll. 10-31, 40-48):
+As mentioned above, ancient historiographers also criticise and reject the canon to establish their coherence and uniformity with it, though they employ different techniques and methods. For example, Polybius dedicated a whole book of The Histories to taking issue with Timaeus’ historiographical method, while at the same time he begins his narrative from exactly where Timaeus had left off. But this is obviously different from what I outlined above. Indeed, I noticed the presence of this discourse construction in “All I Want for Christmas Is You” not by thinking of some passages from Thucydides or Polybius, but rather of a lyric poem by Ibycus of Rhegium (second half of 6th BCE). Let us take a look at some sections of the text (S151 = *PMG* 282a lines 10-31 and 40-48):
 
 <div style="border-left: 4px solid #666; padding-left: 20px; margin: 20px 0; font-style: italic; color: #444;">
 
@@ -112,4 +112,5 @@ Sometimes, bridging the past and the present can make things clearer and more un
  - West, Martin L. 1984. *Greek Metre*. Oxford: Clarendon Press.
  
  - Wilkinson, Claire. 2013. *The Lyric of Ibycus Introduction, Text and Commentary*. Berlin: De Gruyter.
+
 
