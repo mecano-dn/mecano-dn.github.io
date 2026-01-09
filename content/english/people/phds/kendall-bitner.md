@@ -3,7 +3,7 @@ title: Kendall Bitner
 last_name: bitner
 role: PhD
 email: kendall.bitner@ru.nl
-image: "/images/profile-pics/bitner.jpg"
+image: "/images/profile-pics/bitner.png"
 description: this is meta description
 social:
   - name: email
