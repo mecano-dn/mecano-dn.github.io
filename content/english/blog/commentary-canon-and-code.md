@@ -1,7 +1,7 @@
 ---
 title: "Commentary, Canon, and Code: An Intern’s View on Ancient Philosophy"
 author: "Timo Zarakovitis"
-author_cat:"phds"
+author_cat: "phds"
 date: 2025-12-22
 draft: true
 description: "After three months at Brepols’ Corpus Christianorum Bibliotheek & Kenniscentrum (CTLO), I reflect on how publishers, translators, and digital tools continue to shape philosophical canons."
