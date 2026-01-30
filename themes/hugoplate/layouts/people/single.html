@@ -6,14 +6,15 @@
         <!--<div class="md:col-6 lg:col-6 mb-12">-->
         {{ partial "components/author-card.html" . }}
         <!--</div>-->
-        <div class="row pt-8">
-        <div class="col-12">
-          {{ if .Params.textB }}
-            <p class="mb-4">{{ .Params.textB }}</p>
+        <!--<div class="md:col-6 lg:col-6 mb-12">
+          {{ $filterByAuthor := where site.RegularPages "Params.PhD" "==" .Title }}
+          {{ if $filterByAuthor }}
+          {{ range $filterByAuthor }}
+            {{ .Scratch.Set "parent" "individual" }}
+            {{ partial "components/project-card" . }}
           {{ end }}
-          
-          {{ if .Params.textA }}
-            <p class="mb-4">{{ .Params.textA }}</p>
+          </div>-->
+        
           {{ end }}
         </div>
       </div>
