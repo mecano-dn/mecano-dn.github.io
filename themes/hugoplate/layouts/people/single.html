@@ -18,8 +18,8 @@
         
         </div>
       </div>
-    </div>
-      <div class="row pb-16 pt-14">
+    
+        <div class="row pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
           <div class="md:col-6 lg:col-4 mb-12">
@@ -27,6 +27,6 @@
           </div>
         {{ end }}
       </div>
-    </div>
+      </div>
   </section>
 {{ end }}
