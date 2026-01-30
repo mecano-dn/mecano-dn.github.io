@@ -22,17 +22,11 @@
     </a>
   </h5>
 
-  {{ if eq (.Scratch.Get "parent") "list" }}   
-    {{ if .Params.research_areas }}
-      <p class="mb-4">
-        <strong>Research Areas:</strong> {{ .Params.research_areas }}
-      </p>
-    {{ end }}
-  {{ else }}
   
   <p class="mb-4">
     {{ .Content }}
-  </p></br>
+  </p>
+</br>
   <ul class="social-icons">
     {{ range .Params.social }}
       <li>
