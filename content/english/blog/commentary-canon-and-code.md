@@ -28,9 +28,7 @@ My internship at Brepols allowed me to approach these questions from a very diff
 
 During my internship, I worked on linking the Greek originals to the Latin translations by “XMLifying” their indices. The indices allowed me to trace how Greek or Latin lemmas (a form of a word that appears as an entry in a the abstract “common denominators” of the individual forms of a word) were rendered in the translation or original. These indices are extremely helpful for philologists and philosophers alike, as they explain the interpretation of these terms and of the entire philosophies. An inadequate translation or alternative understanding might completely change how Aristotle was to be interpreted for generations to come. Furthermore, this work of linking the Greek to the Latin may lay the groundwork for future projects, such as textual alignment or the creation of new digital tools for research. 
 
-One thing that really surprised me while working on the ALD during these three months was the sheer volume and diversity of Aristotelian texts that were translated, which was way more than I had initially thought. In my time as a philosopher, I had mainly focused on Ancient Greek philosophy, perhaps somewhat pushed by my background (or Canon!), but my time at Brepols really extended my view of this
-
-corpus. The fact that these translations were not just for the major (or canonical) texts, but also lesser-known or pseudonymous ones was also very surprising to me, as I had not expected that a work on, say, sleepwalking would be translated into Latin. All these things have really shown me how well regarded Aristotle was during this period, and one could thus argue that in those times, Aristotle was not just a philosopher, but indeed THE philosopher.
+One thing that really surprised me while working on the ALD during these three months was the sheer volume and diversity of Aristotelian texts that were translated, which was way more than I had initially thought. In my time as a philosopher, I had mainly focused on Ancient Greek philosophy, perhaps somewhat pushed by my background (or Canon!), but my time at Brepols really extended my view of this corpus. The fact that these translations were not just for the major (or canonical) texts, but also lesser-known or pseudonymous ones was also very surprising to me, as I had not expected that a work on, say, sleepwalking would be translated into Latin. All these things have really shown me how well regarded Aristotle was during this period, and one could thus argue that in those times, Aristotle was not just a philosopher, but indeed THE philosopher.
 
 ## Translators as Canon-Makers
 
@@ -44,9 +42,7 @@ At Brepols, next to working on the ALD, I also had a chance to observe editorial
 
 It became clear to me once again that canonisation is still happening, although, with the shift towards the digital, sometimes in different forms. Decisions about funding, marketing, and even user interface design can influence what which texts get read, taught, and studied, and how. Long-running series like the Corpus Christianorum, which contains hundreds of texts, were referred to as "canons" by publishers. But even within these, scholars will have their own sense of what is truly central or less essential. 
 
-For me, this really drove the point home for me that the idea of a canon is never neutral, as it is shaped by scholarly interests, institutional priorities (as is the case for
-
-example with the AL and ALD), the demand of the market, and practical considerations.
+For me, this really drove the point home for me that the idea of a canon is never neutral, as it is shaped by scholarly interests, institutional priorities (as is the case for example with the AL and ALD), the demand of the market, and practical considerations.
 
 ## Digital Humanities and the Expanding Canon
 
