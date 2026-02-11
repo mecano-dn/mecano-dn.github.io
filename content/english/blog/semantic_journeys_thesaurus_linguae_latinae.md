@@ -1,4 +1,3 @@
-
 ---
 title: "Among the Paper Slips: Semantic Journeys and Canon at the Thesaurus Linguae Latinae"
 author: "Valeria Irene Boano"
@@ -12,7 +11,6 @@ tags:
 - Semantics
 - Canon
 draft: false
-
 ---
 
 Imagine your every day office is an archive containing **10 million paper slips** distributed in about 6,500 boxes. Imagine working with books enriched with the annotations of hundreds of scholars, layers of stratified information to make the research easier for whoever is coming next. Imagine contributing to a project that started more than 100 years ago and has not been finished yet.
