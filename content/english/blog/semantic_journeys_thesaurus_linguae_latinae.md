@@ -11,7 +11,7 @@ tags:
 - Latin
 - Semantics
 - Canon
-draft: true
+draft: false
 
 ---
 
