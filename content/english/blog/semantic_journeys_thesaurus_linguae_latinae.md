@@ -15,7 +15,7 @@ draft: false
 
 Imagine your every day office is an archive containing **10 million paper slips** distributed in about 6,500 boxes. Imagine working with books enriched with the annotations of hundreds of scholars, layers of stratified information to make the research easier for whoever is coming next. Imagine contributing to a project that started more than 100 years ago and has not been finished yet.
 
-![image 1](../assets/images/blog/zettelarchive.png)
+![image 1](../assets/images/blog/zettelarchive.jpg)
 *Figure 1: The TLL Zettelarchiv*.
 ### The Thesaurus linguae Latinae 
 
@@ -31,7 +31,7 @@ This understanding gave me a boost of curiosity about what my work was going to 
 
 Soon, I was able to start working on my true first article: **_nubecula_, "little cloud"**. While savoring the beauties of München and Bavaria, between one weekend visiting the Schloss Neuschwanstein and one enjoying the Oktoberfest, I spent my days carefully examining the _Zettel_ one by one, checking the text in the critical editions and trying to grasp the exact nuances of each textual occurrence. Curiously, the very first appearance of the term is **metaphorical**: the _frontis tuae nubeculam_ appearing in Cicero's oration _In Pisonem_ (20) refers to the corrugated forehead of the addressee, and it is found in the middle of a nautical metaphor describing Cicero's rescue of the _res publica_ in the course of a storm. I found incredibly interesting how the very first occurrence of the word was clearly metaphorical, yet also contained the literal meaning, even if hidden and incapsulated into a figure of speech. The unexpected findings were not over, since I soon discovered that _nubecula_ can also refer to various types of clots, both in medical texts, concerning different kinds of pathologies, and in other contexts, such as in mineralogy and astronomy. My surprise peaked when I discovered that _nubecula_ could also designate a net used to catch birds. The unpredictable number of meanings hidden in this word made me aware of the **semantic journeys** that the researchers at the Thesaurus undertake every day. 
 
-![image 2](../assets/images/blog/thesaurus_zettel.png)
+![image 2](../assets/images/blog/thesaurus_zettel.jpg)
 *Figure 2: Some Zettel showing the occurences of nubecula.*
 ### Second, a semantic twirl: working on _nugatorius_
 
