@@ -5,7 +5,7 @@ role: PhD
 email: valeria.boano@kuleuven.be
 image: "/images/profile-pics/boano.jpg"
 description: this is meta description
-keywords: NLP for Ancient Languages; Digital Classics; Linked Open Data; Latin Linguistics; Linguistic Annotation.
+keywords: "NLP for Ancient Languages; Digital Classics; Linked Open Data; Latin Linguistics; Linguistic Annotation."
 social:
   - name: email
     icon: fab fa-at
