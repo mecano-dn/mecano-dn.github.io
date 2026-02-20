@@ -3,9 +3,50 @@
     <div class="container">
       <div class="row border-border dark:border-darkmode-border justify-center border-b pb-14">
         <!--<div class="md:col-6 lg:col-6 mb-12">-->
-        {{ partial "components/author-card.html" . }}
-        {{ .Content }}
-        
+        <!-- START PERSON -->
+            <div class="rounded p-4 text-left">
+            {{ $image:= resources.Get .Params.image  }}
+              <div class="row">
+                <div class="col">
+                {{ if $image }}
+                  {{ $image:= $image.Process "fill 300x300" }}
+                    <img src="{{ $image.RelPermalink }}" class="mx-auto mb-6 rounded-full" height="140" width="140" >
+                  {{ else }}
+                  <img
+                      class="mx-auto mb-4 rounded"
+                      alt="{{ .Title }}"
+                      height="140"
+                      width="140"
+                      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
+                  {{ end }} 
+                </div>
+                <div class="col">
+                  <h5 class="mb-3">
+                    <a href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                    </a>
+                  </h5>
+                  <p class="mb-4"> 
+                    {{ .Content }}
+                  </p>
+                  <p class="mb-4">
+                    <b>Research areas:</b> {{ .Params.topics }}
+                  </p>
+                </br>
+                  <ul class="social-icons">
+                    {{ range .Params.social }}
+                      <li>
+                        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
+                          <span class="sr-only">{{ .title }}</span>
+                          <i class="{{ .icon }}"></i>
+                        </a>
+                      </li>
+                    {{ end }}
+                  </ul>
+                </div>
+              </div>
+            </div>
+        <!-- END PERSON -->      
         <!--</div>-->
         <!--<div class="md:col-6 lg:col-6 mb-12">
           {{ $filterByAuthor := where site.RegularPages "Params.PhD" "==" .Title }}
