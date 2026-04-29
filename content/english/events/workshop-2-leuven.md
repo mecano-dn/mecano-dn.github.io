@@ -3,11 +3,11 @@ title: "Workshop 2: Workflows for Natural Language Processing"
 date_start: 2025-11-17
 date_end: 2025-11-19
 location: "Leuven, Belgium"
-summary: "This workshop will be devoted to hands-on training using NLP tools and building a workflow for participants' materials."
+summary: "This workshop is be devoted to hands-on training using NLP tools and building a workflow for participants' materials."
 image: "images/illustrations/leuven-fonske-dorien-monnens-cR0hu-WdCzY-unsplash.jpg"
 image_credit: "© Dorien Monnens (@dorienmonnens), Unsplash"
 link_external: ""
-weight: 4
+weight: 7
 ---
 
 This workshop will introduce the participants to a few most common and helpful tools for Natural Language Processing. Apart from the demos, each session will be accompanied by exercises and practice on the texts that participants will bring themselves.
