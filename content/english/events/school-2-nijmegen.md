@@ -7,6 +7,6 @@ summary: "The second MECANO School is devoted to communicating the research resu
 image: "images/illustrations/nijmegen-liam-read-unsplash.jpg"
 image_credit: "Photo by @liamread on Unsplash</a>"
 link_external: ""
-weight: 1
+weight: 0
 ---
 
