@@ -7,7 +7,7 @@ summary: "This school is dedicated to the reception of Greek and Roman 'canonica
 image: "images/illustrations/knir-rome.jpg"
 image_credit: "Creator: Gilberto Maltinti. Copyright: Parioli Fotografia."
 link_external: ""
-weight: 2
+weight: 8
 ---
 
 ### **Day 0: Monday, June 9, 2025** 
