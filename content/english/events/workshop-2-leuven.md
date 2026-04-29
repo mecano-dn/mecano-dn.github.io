@@ -4,8 +4,8 @@ date_start: 2025-11-17
 date_end: 2025-11-19
 location: "Leuven, Belgium"
 summary: "This workshop is be devoted to hands-on training using NLP tools and building a workflow for participants' materials."
-image: "images/illustrations/leuven-fonske-dorien-monnens-cR0hu-WdCzY-unsplash.jpg"
-image_credit: "© Dorien Monnens (@dorienmonnens), Unsplash"
+image: "images/illustrations/ku-leuven-library.png‎"
+image_credit: ""
 link_external: ""
 weight: 7
 ---
