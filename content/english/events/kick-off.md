@@ -7,7 +7,7 @@ summary: "The first time all MECANO PhDs will come together for a summer school 
 image: "images/illustrations/kortenberg.jpeg"
 image_credit: "© Peter Janssens, Wikipedia Commons"
 link_external: "https://www.kuleuven.be/"
-weight: 0
+weight: 10
 ---
 
 **Provisional programme**
