@@ -1,5 +1,5 @@
 ---
-title: "What Do You Do, *Tonton*?: Explaining Classical Reception to a Four-and-a-Half-Year Old"
+title: "What Do You Do, Tonton?: Explaining Classical Reception to a Four-and-a-Half-Year Old"
 author: "Marin-Marie Le Bris"
 author_cat: "phds"
 summary: "Summarising months of research into a two-minute pitch is a real balancing act. Yet when my four-year-old nephew asked what my job was, I decided to take the (Cretan) bull by the horns."
@@ -14,7 +14,7 @@ draft: false
 ---
 Whether at academic conferences and meetings, or at birthday parties and family dinners, I dread the moment someone asks me to introduce myself and my project. Summarising months of research into a two-minute pitch, which must be both engaging and intelligible, is a real balancing act. Yet when my four-year-old nephew asked what my job was, I decided to take the (Cretan) bull by the horns.<br>
 
-![image 1](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/reconstitution_du_t_rex.jpg)
+![image 1](../assets/images/blog/reconstitution_du_t_rex.jpg)
 *Sciences et voyages. Revue hebdomadaire illustrée*, 1 January 1947, p. 8. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bd6t52165500j/f6.item)
 
 ### *Post meridiem* or Absence makes the heart grow fonder
@@ -125,7 +125,7 @@ I forgot…
 **Marin** <br>
 The name Tyrannosaurus rex is derived from two ancient languages. It combines the expressions ‘tyrant lizard’, from Ancient Greek *túrannos* and *saûros*, and ‘king’, from the Latin *rex*[^2]. The T. rex is thus ‘the king of tyrant lizards’. A bit redundant if you ask me, but the scientist who decided on its name - approximately when the newspapers I am researching were being printed on this side of the Atlantic - really wanted to convey the idea that the beast ‘greatly exceed[ed] […] any carnivorous land animal hitherto described’[^3]. 
 
-![image 2](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/nyh_t_rex_wolf.jpg)
+![image 2](../assets/images/blog/nyh_t_rex_wolf.jpg)
 *The New York Herald, 30 December 1905*, p. 7. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bpt6k4130585p/f7.item). 
 
 **M.** <br>
@@ -180,7 +180,7 @@ Never mind, let’s go build the Avengers Lego set you got with A. yesterday.
 
 In A.’s opinion, this dialogue’s Achilles heel is its lack of unanticipated and repeated - almost compulsive - *whys*, frequently uttered by preschool children. Luckily for me, it seems like M. has already passed the peak of this ‘*why*’ phase. If not, I may have to re-write the entire script. <br>
 
-![image 3](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/phd_candidate_in_classical_reception.jpg) <br>
+![image 3](../assets/images/blog/phd_candidate_in_classical_reception.jpg) <br>
 
 [^1]: Regrettably, dear reader, four-and-a-half-year-olds do not deal in footnotes. But since you have made it this far, you are seemingly enjoying yourself: why not peruse my brilliant colleagues’ publications too? Here are links to [Valeria’s chronicles of her contributions to the ‘most authoritative dictionary of ancient Latin’](https://mecano-dn.eu/blog/semantic_journeys_thesaurus_linguae_latinae/), to [Timo](https://mecano-dn.eu/blog/commentary-canon-and-code/) and [Kendall’s](https://mecano-dn.eu/blog/supplementing_the_canon/) discussions of academic publishers and their role in processes of canonisation, to [Doaa’s reflections on the idea of (me)*kanon*](https://mecano-dn.eu/blog/how_i_met_mecano/), to [Luisa’s review of Umberto Ecco’s most irreverent pieces on literary classics](https://mecano-dn.eu/blog/canonisation_as_parody/), and finally, to [Leonardo’s uncovering of the canonical motifs behind Mariah Carey’s iconic (lyric?) *All I Want For Christmas Is You*](https://mecano-dn.eu/blog/art_of_dealing_with_canon/).
 
