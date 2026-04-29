@@ -14,8 +14,9 @@ draft: true
 ---
 Whether at academic conferences and meetings, or at birthday parties and family dinners, I dread the moment someone asks me to introduce myself and my project. Summarising months of research into a two-minute pitch, which must be both engaging and intelligible, is a real balancing act. Yet when my four-year-old nephew asked what my job was, I decided to take the (Cretan) bull by the horns.
 
-![image 1](../assets/images/blog/zettelarchive.jpg)
-*Figure 1: The TLL Zettelarchiv*.
+![image 1](../assets/images/blog/reconstitution_du_t_rex.jpg)
+*Sciences et voyages. Revue hebdomadaire illustrée*, 1 January 1947, p. 8. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bd6t52165500j/f6.item)
+
 ### *Post meridiem* or Absence makes the heart grow fonder
 
 ‘*Il fait quoi comme travail tonton Marin ?*’ asked my (then) four-year-old nephew (I shall call him M.) to my spouse (A.), last fall. What is my job? Good question. In all honesty, I am glad I was not in the room at the time, or else I fear the youngster would have been disappointed with my inability to spontaneously provide a clear and compelling answer. 
