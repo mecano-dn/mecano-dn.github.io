@@ -14,7 +14,7 @@ draft: true
 ---
 Whether at academic conferences and meetings, or at birthday parties and family dinners, I dread the moment someone asks me to introduce myself and my project. Summarising months of research into a two-minute pitch, which must be both engaging and intelligible, is a real balancing act. Yet when my four-year-old nephew asked what my job was, I decided to take the (Cretan) bull by the horns.
 
-![image 1](../assets/images/blog/reconstitution_du_t_rex.jpg)
+![image 1](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/reconstitution_du_t_rex.jpg)
 *Sciences et voyages. Revue hebdomadaire illustrée*, 1 January 1947, p. 8. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bd6t52165500j/f6.item)
 
 ### *Post meridiem* or Absence makes the heart grow fonder
@@ -55,7 +55,7 @@ Ye… no. I forgot.
 _(M. tends to say ‘I forgot’ when, really, he means ‘I don’t know’.)_
 
 **ME** <br>
-Many people use the term, but very few bother explaining what it means, what it *is* to them [^1]. Maybe you’ve heard the word *ancient*? It designates something or someone of or from the past, because its root, *ante*, stands for ‘what comes before’. If you listen carefully, the root *ante* is also found in the word *anti*-quity, and what we often have in mind is ‘the actions and sayings of people who lived a very long time ago’.
+Many people use the term, but very few bother explaining what it means, what it *is* to them[^1]. Maybe you’ve heard the word *ancient*? It designates something or someone of or from the past, because its root, *ante*, stands for ‘what comes before’. If you listen carefully, the root *ante* is also found in the word *anti*-quity, and what we often have in mind is ‘the actions and sayings of people who lived a very long time ago’.
 
 **M.** <br>
 Like the dinosaurs!
@@ -123,9 +123,9 @@ Wow, impressive M.! And do you know why? Is this a French term?
 I forgot…
 
 **ME** <br>
-The name Tyrannosaurus rex is derived from two ancient languages. It combines the expressions ‘tyrant lizard’, from Ancient Greek *túrannos* and *saûros*, and ‘king’, from the Latin *rex* **[footnote]**. The T. rex is thus ‘the king of tyrant lizards’. A bit redundant if you ask me, but the scientist who decided on its name - approximately when the newspapers I am researching were being printed on this side of the Atlantic - really wanted to convey the idea that the beast ‘greatly exceed[ed] […] any carnivorous land animal hitherto described’**[footnote]**. 
+The name Tyrannosaurus rex is derived from two ancient languages. It combines the expressions ‘tyrant lizard’, from Ancient Greek *túrannos* and *saûros*, and ‘king’, from the Latin *rex*[^2]. The T. rex is thus ‘the king of tyrant lizards’. A bit redundant if you ask me, but the scientist who decided on its name - approximately when the newspapers I am researching were being printed on this side of the Atlantic - really wanted to convey the idea that the beast ‘greatly exceed[ed] […] any carnivorous land animal hitherto described’[^3]. 
 
-![image 2](../assets/images/blog/nyh_t_rex_wolf.jpg)
+![image 2](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/nyh_t_rex_wolf.jpg)
 *The New York Herald, 30 December 1905*, p. 7. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bpt6k4130585p/f7.item). 
 
 **M.** <br>
@@ -180,6 +180,10 @@ Never mind, let’s go build the Avengers Lego set you got with A. yesterday.
 
 In A.’s opinion, this dialogue’s Achilles heel is its lack of unanticipated and repeated - almost compulsive - *whys*, frequently uttered by preschool children. Luckily for me, it seems like M. has already passed the peak of this ‘*why*’ phase. If not, I may have to re-write the entire script.
 
-![image 3](../assets/images/blog/phd_candidate_in_classical_reception.jpg)
+![image 3](https://github.com/mecano-dn/mecano-dn.github.io/blob/main/assets/images/blog/phd_candidate_in_classical_reception.jpg)
 
-[^1]: footnote test
+[^1]: Regrettably, dear reader, four-and-a-half-year-olds do not deal in footnotes. But since you have made it this far, you are seemingly enjoying yourself: why not peruse my brilliant colleagues’ publications too? Here are links to [Valeria’s chronicles of her contributions to the ‘most authoritative dictionary of ancient Latin’](https://mecano-dn.eu/blog/semantic_journeys_thesaurus_linguae_latinae/), to [Timo](https://mecano-dn.eu/blog/commentary-canon-and-code/) and [Kendall’s](https://mecano-dn.eu/blog/supplementing_the_canon/) discussions of academic publishers and their role in processes of canonisation, to [Doaa’s reflections on the idea of (me)*kanon*](https://mecano-dn.eu/blog/how_i_met_mecano/), to [Luisa’s review of Umberto Ecco’s most irreverent pieces on literary classics](https://mecano-dn.eu/blog/canonisation_as_parody/), and finally, to [Leonardo’s uncovering of the canonical motifs behind Mariah Carey’s iconic (lyric?) *All I Want For Christmas Is You*](https://mecano-dn.eu/blog/art_of_dealing_with_canon/).
+
+[^2]: No footnotes, we said. But it was kindly brought to my attention that the transliteration of the Greek τύραννος as *túrannos* infringes the academic convention of rendering the grapheme υ with the letter y. To the classicists reading this post: please note that my choice was primarily driven by phonetic considerations. In addition, given that I am addressing a four-and-a-half-year-old, I was wisely advised to avoid expressions such as ‘paradoxically’, ‘mental constructs’ or ‘universal medium of communication’. I am thus genuinely grateful to my colleagues Leonardo and Jonas for reviewing my piece and helping me improve it.
+
+[^3]: One last breach of the ‘no-footnote’ policy:  this attests to the American elite’s longtime taste for over-the-top labels. Calling a species the ‘king of tyrant lizards’ is a bit like calling a military operation ‘Epic Fury’, don’t you think? It would be deemed jejune by most, unless a four-and-a-half-year-old came up with it while playing on his own. Admittedly, this practice is not exclusive to the current administration: leaving geopolitical motivations aside, its mythological echo gave ‘Operation Poseidon Archer’ (2024-2025), for example, a bombastic ring. 
