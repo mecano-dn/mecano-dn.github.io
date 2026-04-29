@@ -55,7 +55,7 @@ Ye… no. I forgot.
 _(M. tends to say ‘I forgot’ when, really, he means ‘I don’t know’.)_
 
 **ME** <br>
-Many people use the term, but very few bother explaining what it means, what it *is* to them **[footnote]**. Maybe you’ve heard the word *ancient*? It designates something or someone of or from the past, because its root, *ante*, stands for ‘what comes before’. If you listen carefully, the root *ante* is also found in the word *anti*-quity, and what we often have in mind is ‘the actions and sayings of people who lived a very long time ago’.
+Many people use the term, but very few bother explaining what it means, what it *is* to them [^1]. Maybe you’ve heard the word *ancient*? It designates something or someone of or from the past, because its root, *ante*, stands for ‘what comes before’. If you listen carefully, the root *ante* is also found in the word *anti*-quity, and what we often have in mind is ‘the actions and sayings of people who lived a very long time ago’.
 
 **M.** <br>
 Like the dinosaurs!
@@ -179,3 +179,7 @@ Never mind, let’s go build the Avengers Lego set you got with A. yesterday.
 ### *Post scriptum* or Reality check
 
 In A.’s opinion, this dialogue’s Achilles heel is its lack of unanticipated and repeated - almost compulsive - *whys*, frequently uttered by preschool children. Luckily for me, it seems like M. has already passed the peak of this ‘*why*’ phase. If not, I may have to re-write the entire script.
+
+![image 3](../assets/images/blog/phd_candidate_in_classical_reception.jpg)
+
+[^1]: footnote test
