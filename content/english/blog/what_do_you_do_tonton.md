@@ -125,6 +125,9 @@ I forgot…
 **ME** <br>
 The name Tyrannosaurus rex is derived from two ancient languages. It combines the expressions ‘tyrant lizard’, from Ancient Greek *túrannos* and *saûros*, and ‘king’, from the Latin *rex* **[footnote]**. The T. rex is thus ‘the king of tyrant lizards’. A bit redundant if you ask me, but the scientist who decided on its name - approximately when the newspapers I am researching were being printed on this side of the Atlantic - really wanted to convey the idea that the beast ‘greatly exceed[ed] […] any carnivorous land animal hitherto described’**[footnote]**. 
 
+![image 2](../assets/images/blog/nyh_t_rex_wolf.jpg)
+*The New York Herald, 30 December 1905*, p. 7. Source: [gallica.BnF.fr](https://gallica.bnf.fr/ark:/12148/bpt6k4130585p/f7.item). 
+
 **M.** <br>
 But, *tonton Marin*, what is Latin?
 
