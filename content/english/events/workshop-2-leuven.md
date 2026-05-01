@@ -4,13 +4,13 @@ date_start: 2025-11-17
 date_end: 2025-11-19
 location: "Leuven, Belgium"
 summary: "A three-days hands-on training using NLP tools and building a workflow for participants' materials."
-image: "images/illustrations/ku-leuven-library.png‎"
+image: "images/illustrations/ku-leuven-library.jpeg"
 image_credit: ""
 link_external: ""
 weight: 7
 ---
 
-This workshop will introduce the participants to a few most common and helpful tools for Natural Language Processing. Apart from the demos, each session will be accompanied by exercises and practice on the texts that participants will bring themselves.
+This workshop introduces the participants to a few of the most common and helpful tools for Natural Language Processing. Apart from the demos, each session is accompanied by exercises and practice on the texts that participants bring themselves.
 
 **Programme PDF**: [click here](/events/MECANO_Workshop_II_Programme.pdf)
 
