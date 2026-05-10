@@ -80,7 +80,7 @@ weight: 8
 #### **Presentations, meetings, conclusions**
 ##### **Erasmusgebouw - E 1.04, 1.06, 1.10, 1.18**
 
-* 09.00-12.00: Workshops
+* 09.00-10.30: Workshops - planning of next steps / MECANO supervisory board (hybrid)
 
 ##### **Erasmusgebouw - E 2.12**
 
