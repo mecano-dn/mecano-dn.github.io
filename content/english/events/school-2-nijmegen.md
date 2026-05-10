@@ -20,10 +20,28 @@ weight: 8
 | Time | Activity | Location |
 | ---- | -----	| -----	|
 | **09:30-10:00** | Shari Boodts (Radboud Universiteit), Research and Impact  | Huize Heyendael - Van Agt Kamer |
-| **10:00-10:40** | Evelien Bracke (University College Dublin), Working towards educational equity via Classical languages at primary school: European case studies | - |
-| **10:40-11:10** | Coffee break  | - |
-| **11:10-11:50** | Harm Kaal (Radboud Universiteit), Thinking with history in public policy: The value of applied history | - |
-| **11:50-12:30** | Demi Storm (Radboud Universiteit), Critical fabulation as a hermeneutic method to (ancient) history: The case of a child miner in Alburnus Maior, Roman Dacia  | - |
-| **12:30-14:00** | Lunch  | - |
+| **10:00-10:40** | Evelien Bracke (University College Dublin), Working towards educational equity via Classical languages at primary school: European case studies | Huize Heyendael - Van Agt Kamer |
+| **10:40-11:10** | Coffee break  | Huize Heyendael - Van Agt Kamer |
+| **11:10-11:50** | Harm Kaal (Radboud Universiteit), Thinking with history in public policy: The value of applied history | Huize Heyendael - Van Agt Kamer |
+| **11:50-12:30** | Demi Storm (Radboud Universiteit), Critical fabulation as a hermeneutic method to (ancient) history: The case of a child miner in Alburnus Maior, Roman Dacia  | Huize Heyendael - Van Agt Kamer |
+| **12:30-14:00** | Lunch  | Huize Heyendael - Van Agt Kamer |
 | **14:00-15:00** | Tour of the Valkhof Museum | Valkhof Museum |
-| **15:00-17:00** | Walk through the Nijmegen to view the Waalpaintings | City centre |
+| **15:00-17:00** | Walk through the city to view the Waalpaintings | Nijmegen |
+
+
+### **Day 1: Monday, May 18, 2026**
+#### **Inspiring examples of science communication**
+##### **Huize Heyendael - Van Agt Kamer**
+
+* 09.30-10.00 Shari Boodts (Radboud Universiteit), Research and Impact
+* 10.00-10.40 Evelien Bracke (University College Dublin), Working towards educational equity via Classical languages at primary school: European case studies
+* 10.40-11.10 Coffee break
+* 11.10-11.50 Harm Kaal (Radboud Universiteit), Thinking with history in public policy: The value of applied history
+* 11.50-12.30 Demi Storm (Radboud Universiteit), Critical fabulation as a hermeneutic method to (ancient) history: The case of a child miner in Alburnus Maior, Roman Dacia
+* 12.30-14.00 Lunch
+
+##### **Valkhof Museum**
+* 14.00-15.00 Tour of the Valkhof Museum
+
+##### **City centre**
+* 15.00-17.00 Walk through the city to view the Waalpaintings
