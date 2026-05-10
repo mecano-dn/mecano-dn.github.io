@@ -63,16 +63,16 @@ weight: 8
 
 * 12.00-13.30: Lunch
 
-##### **Erasmusgebouw - E 2.61, 2.56, 2.66*
+##### **Erasmusgebouw - E 2.61, 2.56, 2.66**
 
 * 13.30-15.30: Workshops
 
-##### **Erasmusgebouw - E 1.17*
+##### **Erasmusgebouw - E 1.17**
 
 * 15.30-16.00: Break
 * 16.00-18.00: Brainstorm on MECANO common publication (MECANO group only)
 
-##### **Location TBC*
+##### **Location TBC**
 
 * 18.00-21.00: Dinner (MECANO group only)
 
@@ -91,7 +91,7 @@ weight: 8
 
 * 13.00-14.00: Lunch
 
-##### **Erasmusgebouw - E 2.62*
+##### **Erasmusgebouw - E 2.62**
 
 * 14.00-15.30: MECANO PhDs present their valorisation ideas to supervisors and partners
 
