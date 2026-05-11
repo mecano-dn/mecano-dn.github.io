@@ -2,7 +2,7 @@
 title: "Supplementing the Canon"
 meta_title: ""
 summary: "Reflecting on our time at Brepols Publishers leads to pondering about databases and digitization and what they mean for the canon."
-date: 2025-11-28
+date: 2026-04-31
 image: "/images/blog/PL_shelf_Brepols.jpg"
 categories: ["Blog"]
 author: "Kendall Bitner"
