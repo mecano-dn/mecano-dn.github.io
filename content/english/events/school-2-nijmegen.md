@@ -5,7 +5,7 @@ date_end: 2026-05-21
 location: "Nijmegen, Netherlands"
 summary: "The second MECANO School is devoted to communicating the research results in all its facets, with a particular focus on non-academic audiences and creative approaches to dissemination."
 image: "images/illustrations/nijmegen-liam-read-unsplash.jpg"
-image_credit: "Photo by @liamread on Unsplash</a>"
+image_credit: "Photo by @liamread on Unsplash"
 link_external: ""
 weight: 8
 ---
