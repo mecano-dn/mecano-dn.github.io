@@ -7,7 +7,7 @@ summary: "The second MECANO School is devoted to communicating the research resu
 image: "images/illustrations/nijmegen-liam-read-unsplash.jpg"
 image_credit: "Photo by @liamread on Unsplash"
 link_external: ""
-weight: 8
+weight: 6
 ---
 ### **Day 0: Sunday, May 17, 2026** 
 
