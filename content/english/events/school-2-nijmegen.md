@@ -18,7 +18,7 @@ weight: 6
 ##### **Huize Heyendael - Van Agt Kamer**
 
 * 09.30-10.00: Shari Boodts (Radboud Universiteit), Research and Impact
-* 10.00-10.40: Evelien Bracke (University College Dublin), Working towards educational equity via Classical languages at primary school: European case studies
+* 10.00-10.40: Evelien Bracke (Maynooth University & Universiteit Gent), Working towards educational equity via Classical languages at primary school: European case studies
 * 10.40-11.10: Coffee break
 * 11.10-11.50: Harm Kaal (Radboud Universiteit), Thinking with history in public policy: The value of applied history
 * 11.50-12.30: Demi Storm (Radboud Universiteit), Critical fabulation as a hermeneutic method to (ancient) history: The case of a child miner in Alburnus Maior, Roman Dacia
