@@ -44,7 +44,7 @@ weight: 6
 
 * 13.30-15.00: Visit to the Radboud Special Collections
 
-##### **Erasmusgebouw - E 1.04, 1.06, 1.14**
+##### **Erasmusgebouw - E 1.04 (video), 1.06 (museum), 1.14 (festival)**
 
 * 15.00-18.00: Workshops
 
