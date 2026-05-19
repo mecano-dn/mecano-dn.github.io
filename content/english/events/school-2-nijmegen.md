@@ -32,7 +32,7 @@ weight: 6
 
 ### **Day 2: Tuesday, May 19, 2026**
 #### **Workshops on science communication**
-##### **Erasmusgebouw - E 2.51, 2.56, 2.66**
+##### **Erasmusgebouw - E 2.51 (video), 2.56 (museum), 2.66 (festival)**
 
 * 09.00-12.00: Workshops
 
@@ -55,7 +55,7 @@ weight: 6
 
 ### **Day 3: Wednesday, May 20, 2026**
 #### **Workshops on science communication**
-##### **Elinor Ostromgebouw - EOS N 1.220, 1.550, 1.770**
+##### **Elinor Ostromgebouw - EOS N 1.220 (video), 1.550 (museum), 1.770 (festival)**
 
 * 09.00-12.00: Workshops
 
@@ -63,7 +63,7 @@ weight: 6
 
 * 12.00-13.30: Lunch
 
-##### **Erasmusgebouw - E 2.61, 2.56, 2.66**
+##### **Erasmusgebouw - E 2.61 (video), 2.56 (museum), 2.66 (festival)**
 
 * 13.30-15.30: Workshops
 
@@ -78,7 +78,7 @@ weight: 6
 
 ### **Day 4: Thursday, May 21, 2026**
 #### **Presentations, meetings, conclusions**
-##### **Erasmusgebouw - E 1.04, 1.06, 1.10, 1.18**
+##### **Erasmusgebouw - E 1.04, 1.06**
 
 * 09.00-10.30: Workshops - planning of next steps / MECANO supervisory board (hybrid)
 
