@@ -18,7 +18,7 @@ draft: false
 >*“[...] I can neither forget nor express the strong emotions which agitated my mind as I first approached and entered the eternal city. After a sleepless night, I trod, with a lofty step, the ruins of the forum; each memorable spot where Romulus stood, or Tully spoke, or Caesar fell, was at once present to my eye;[...]”* [^1]
 Edward Gibbon
 
-![image 1](../assets/images/blog/VM_Herders_en_vee_bij_ruines.jpg)
+![image 1](../assets/images/blog/vm_herders.jpg)
 Herders en vee bij ruïnes, Nicolaes Berchem (17th century), Valkhof Museum Nijmegen object number 2013.30.158.
 
 A couple of weeks ago, MECANO came together in Nijmegen to work on valorization strategies for our project. A few of us ([Kendall](https://mecano-dn.eu/people/phds/kendall-bitner/), [Leonardo](https://mecano-dn.eu/people/phds/leonardo-daddario/), [Marin](https://mecano-dn.eu/people/phds/marin-marie-le-bris/), and [myself](https://mecano-dn.eu/people/phds/jonas-fischer/)) immediately signed up to create a museum exhibition together with Geert-Jan Borgstein, Marenne Zandstra and the Valkhof Museum for the final MECANO event next year. While this exhibition will explore canonicity centered on four keywords (**remember**, **play**, **invent**, and **visit**) as something people actively do, here I have chosen to develop the **visit** theme into a slightly longer and more text-focused form.
@@ -27,7 +27,7 @@ A couple of weeks ago, MECANO came together in Nijmegen to work on valorization 
 
 Humans have been wandering among the ruins of Graeco-Roman antiquity for a very long time. One might picture a medieval peasant herding livestock beneath the remains of ancient temples, long ago stripped of their original meanings and repurposed as pasture for roaming cattle. Or the 18th-century northern European noble, marveling at Italy’s wonders during their Grand Tour, encountering antiquity as both cultural inheritance and aesthetic ideal of their own time. Or, finally, today’s international tourist, moving through Rome or Athens with a smartphone in hand, experiencing these places through layers upon layers of mediated memory accumulated over centuries.
 
-![image 2](../assets/images/blog/VM_Fontein_op_het_Campo_Vaccino_te_Rome.jpg)
+![image 2](../assets/images/blog/vm_campo_vaccino.jpg)
 Fontein op het Campo Vaccino te Rome, Jean Grandjean (18th century), Valkhof Museum Nijmegen object number 2013.30.35.
 
 Impressions gained from archaeological remains may well dominate today’s reception of antiquity among the wider public. Yet this has not always been the case. For the longest time, knowledge of the ancient world was filtered primarily through texts (our domain as MECANO) and a relatively narrow canon of images, circulated in manuscripts, prints, paintings, and, later, postcards (not our domain as MECANO - maybe something for another project?). These representations were curated, selective, and often shaped by the perspectives of a learned and intellectual elite. Travelling to see the ancient ruins of Italy or Greece required significant means and therefore was the domain of a privileged few.
