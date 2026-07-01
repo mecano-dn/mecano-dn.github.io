@@ -15,8 +15,9 @@ tags:
 draft: false
 ---
 
->*“[...] I can neither forget nor express the strong emotions which agitated my mind as I first approached and entered the eternal city. After a sleepless night, I trod, with a lofty step, the ruins of the forum; each memorable spot where Romulus stood, or Tully spoke, or Caesar fell, was at once present to my eye;[...]”* [^1]
-Edward Gibbon
+> *“[...] I can neither forget nor express the strong emotions which agitated my mind as I first approached and entered the eternal city. After a sleepless night, I trod, with a lofty step, the ruins of the forum; each memorable spot where Romulus stood, or Tully spoke, or Caesar fell, was at once present to my eye; [...]”* [^1]  
+> — Edward Gibbon
+
 
 ![image 1](../assets/images/blog/vm_herders.jpg)
 *Image 1: Herders en vee bij ruïnes, Nicolaes Berchem (17th century), Valkhof Museum Nijmegen object number 2013.30.158.*
