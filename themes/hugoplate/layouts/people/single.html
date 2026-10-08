@@ -21,11 +21,11 @@
                   {{ end }} 
                 </div>
                 <div class="col">
-                  <h5 class="mb-3">
+                  <h4 class="mb-3">
                     <a href="{{ .RelPermalink }}">
                     {{ .Title }}
                     </a>
-                  </h5>
+                  </h4>
                   <p class="mb-4"> 
                     {{ .Content }}
                   </p>
@@ -65,6 +65,9 @@
   
     
       <div class="row pb-16 pt-14">
+      <h5 class="mb-3">
+      Blog posts
+      </h5>
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
           <div class="md:col-6 lg:col-4 mb-12">
