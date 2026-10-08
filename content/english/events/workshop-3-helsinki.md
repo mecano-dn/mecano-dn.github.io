@@ -7,7 +7,7 @@ summary: "A workshop dedicated to the exploration of canonicity with the focus o
 image: "images/illustrations/helsinki_pic.jpg"
 image_credit: "(c) Helsinki Times"
 link_external: ""
-weight: 7
+weight: 5
 ---
 
 
