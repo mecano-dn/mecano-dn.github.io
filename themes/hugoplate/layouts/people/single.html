@@ -65,9 +65,9 @@
   
     
       <div class="row pb-16 pt-14">
-      <h4 class="mb-3">
+      <h5 class="mb-3">
       Blog posts
-      </h4>
+      </h5>
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
           <div class="md:col-6 lg:col-4 mb-12">
