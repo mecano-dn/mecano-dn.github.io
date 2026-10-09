@@ -27,7 +27,7 @@
             </li>
           </ul>
           <div class="content mb-10">
-          <p>How to cite: {{ .Params.author }}. "{{ .Title | safeHTML }}". MECANO Blog. {{ .Date }}. <a href="{{ .Page.Permalink }}">{{ .Page.Permalink }}</a> </p>
+          <p>How to cite: {{ .Params.author }}. "{{ .Title | safeHTML }}". MECANO Blog. {{ .Date.Format "2 January 2006" }}. <a href="{{ .Page.Permalink }}">{{ .Page.Permalink }}</a> </p>
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
