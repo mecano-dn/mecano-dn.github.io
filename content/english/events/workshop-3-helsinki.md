@@ -10,12 +10,13 @@ link_external: ""
 weight: 5
 ---
 
+**Programme PDF**: [click here](/events/MECANO_Workshop_III_Programme.pdf)
 
 ### Programme overview
 **Day 1**
 - Keynote 1: Jari Kaukua
 - Planning of the workshop on the model of canonicity
-- PhD work
+- PhD presentations
 
 **Day 2**
 Boat trip to Tallinn and development sprint of the canonicity publication
